@@ -1,6 +1,6 @@
 server {
     listen 80;
-    server_name ericspishak.com;
+    server_name ericspishak.com www.ericspishak.com;
     return 301 https://ericspishak.com$request_uri;
 }
 
