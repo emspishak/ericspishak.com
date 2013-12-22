@@ -1,4 +1,4 @@
 ericspishak.com-conf
 ====================
 
-Configs for ericspishak.com
+Configs for http://ericspishak.com
