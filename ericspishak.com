@@ -3,4 +3,5 @@ server {
     server_name ericspishak.com;
     index index.html;
     root /var/www/ericspishak.com;
+    charset utf-8;
 }
