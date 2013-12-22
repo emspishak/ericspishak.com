@@ -1,4 +1,4 @@
 ericspishak.com
 ===============
 
-ericspishak.com
+http://ericspishak.com
