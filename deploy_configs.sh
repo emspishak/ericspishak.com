@@ -2,4 +2,4 @@
 
 #!/bin/bash
 
-cp ericspishak.com /etc/nginx/sites-available/
+cp -R root/* /
