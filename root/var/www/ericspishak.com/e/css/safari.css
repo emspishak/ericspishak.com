@@ -6,7 +6,7 @@
 
 body {
     background-color: rgb(237, 239, 238);
-    background-image: url(ErrorPageBackgroundTile.png);
+    background-image: url(../images/ErrorPageBackgroundTile.png);
     background-size: 100px 100px;
     text-align: center;
     -webkit-user-select: none;
@@ -33,7 +33,7 @@ body {
 .suggestion-container {
     margin-top: 25px;
     padding-top: 20px;
-    background: url(ErrorPageDividerLine.png) top center no-repeat;
+    background: url(../images/ErrorPageDividerLine.png) top center no-repeat;
     background-size: 686px 1px;
 }
 
@@ -44,7 +44,7 @@ body {
     
     width: 113px;
     height: 120px;
-    background-image: url(ErrorPageCompass.png);
+    background-image: url(../images/ErrorPageCompass.png);
     background-repeat: no-repeat;
     background-size: 113px 120px;
 }
@@ -59,7 +59,7 @@ body {
     
     width: 35px;
     height: 16px;
-    background-image: url(ErrorPageReadingList.png);
+    background-image: url(../images/ErrorPageReadingList.png);
     background-repeat: no-repeat;
     background-size: 35px 16px;
 }
@@ -123,7 +123,7 @@ html[dir=rtl] .icon {
 
 .error-title.error-text {
     /* the position for rgba(124, 128, 130, 0.9) needs to be the same as the line-height in .error-title */
-    background-image: -webkit-repeating-linear-gradient(rgba(79, 82, 85, 0.9) 0, rgba(124, 128, 130, 0.9) 24px), url(ErrorPageBackgroundTile.png);
+    background-image: -webkit-repeating-linear-gradient(rgba(79, 82, 85, 0.9) 0, rgba(124, 128, 130, 0.9) 24px), url(../images/ErrorPageBackgroundTile.png);
 }
 
 .error-title.error-text-engraving {
@@ -187,7 +187,7 @@ html[dir=rtl] .icon {
     width: 25px;
     height: 24px;
     vertical-align: bottom;
-    background-image: url(HelpButton.png);
+    background-image: url(../images/HelpButton.png);
     background-repeat: no-repeat;
     background-size: 25px 24px;
     -webkit-user-drag: none;
@@ -202,7 +202,7 @@ html[dir=rtl] .icon {
 }
 
 #help-button:active {
-    background-image: url(HelpButtonPressed.png);
+    background-image: url(../images/HelpButtonPressed.png);
 }
 
 html[dir=rtl] #help-button {
@@ -212,31 +212,31 @@ html[dir=rtl] #help-button {
 
 @media (-webkit-min-device-pixel-ratio:2) {
     body {
-        background-image: url(ErrorPageBackgroundTile@2x.png);
+        background-image: url(../images/ErrorPageBackgroundTile@2x.png);
     }
 
     .suggestion-container {
-        background-image: url(ErrorPageDividerLine@2x.png);
+        background-image: url(../images/ErrorPageDividerLine@2x.png);
     }
 
     .icon {
-        background-image: url(ErrorPageCompass@2x.png);
+        background-image: url(../images/ErrorPageCompass@2x.png);
     }
 
     .reading-list-glasses {
-        background-image: url(ErrorPageReadingList@2x.png);
+        background-image: url(../images/ErrorPageReadingList@2x.png);
     }
 
     .error-title.error-text {
         /* the position for rgba(124, 128, 130, 0.9) needs to be the same as the line-height in .error-title */
-        background-image: -webkit-repeating-linear-gradient(rgba(79, 82, 85, 0.9) 0, rgba(124, 128, 130, 0.9) 24px), url(ErrorPageBackgroundTile@2x.png);
+        background-image: -webkit-repeating-linear-gradient(rgba(79, 82, 85, 0.9) 0, rgba(124, 128, 130, 0.9) 24px), url(../images/ErrorPageBackgroundTile@2x.png);
     }
 
     #help-button {
-        background-image: url(HelpButton@2x.png);
+        background-image: url(../images/HelpButton@2x.png);
     }
 
     #help-button:active {
-        background-image: url(HelpButtonPressed@2x.png);
+        background-image: url(../images/HelpButtonPressed@2x.png);
     }
 }
