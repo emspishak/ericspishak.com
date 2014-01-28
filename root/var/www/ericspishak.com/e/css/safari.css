@@ -210,7 +210,8 @@ html[dir=rtl] #help-button {
     margin-left: -35px;
 }
 
-@media (-webkit-min-device-pixel-ratio:2) {
+@media (-webkit-min-device-pixel-ratio:2),
+       (-moz-device-pixel-ratio) {
     body {
         background-image: url(../images/ErrorPageBackgroundTile@2x.png);
     }
