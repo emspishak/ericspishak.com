@@ -147,8 +147,10 @@ html[dir=rtl] .icon {
     line-height: 17px;
 }
 
-.suggestion-prompt.error-text, .error-message.error-text {
-    background-color: rgba(101, 105, 107, 0.9);
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .suggestion-prompt.error-text, .error-message.error-text {
+        background-color: rgba(101, 105, 107, 0.9);
+    }
 }
 
 .suggestion-prompt.error-text-engraving {
