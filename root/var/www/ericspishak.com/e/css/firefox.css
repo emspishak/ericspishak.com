@@ -12,25 +12,25 @@
  */
 
 html {
-  background: -moz-Dialog;
+  background: #E8E8E8;
 }
 
 body {
   margin: 0;
   padding: 0 1em;
-  color: -moz-FieldText;
+  color: #000000;
   font: message-box;
 }
 
 h1 {
   margin: 0 0 .6em 0;
-  border-bottom: 1px solid ThreeDLightShadow;
+  border-bottom: 1px solid #DADADA;
   font-size: 160%;
 }
 
 ul, ol {
   margin: 0;
-  -moz-margin-start: 1.5em;
+  margin-left: 1.5em;
   padding: 0;
 }
 
@@ -47,11 +47,11 @@ ul {
   min-width: 13em;
   max-width: 52em;
   margin: 4em auto;
-  border: 1px solid ThreeDShadow;
+  border: 1px solid #E0E0E0;
   border-radius: 10px;
   padding: 3em;
-  -moz-padding-start: 30px;
-  background: url("../images/warning-large.png") left 0 no-repeat -moz-Field;
+  padding-left: 30px;
+  background: url("../images/warning-large.png") left 0 no-repeat #FFFFFF;
   background-origin: content-box;
 }
 
@@ -64,23 +64,23 @@ ul {
 }
 
 #errorTitle {
-  -moz-margin-start: 80px;
+  margin-left: 80px;
 }
 
 #errorLongContent {
-  -moz-margin-start: 80px;
+  margin-left: 80px;
 }
 
 #errorShortDesc > p {
   overflow: auto;
-  border-bottom: 1px solid ThreeDLightShadow;
+  border-bottom: 1px solid #DADADA;
   padding-bottom: 1em;
   font-size: 130%;
   white-space: pre-wrap;
 }
 
 #errorLongDesc {
-  -moz-padding-end: 3em;
+  padding-right: 3em;
   font-size: 110%;
 }
 
@@ -89,14 +89,14 @@ ul {
 
 #errorTryAgain {
   margin-top: 2em;
-  -moz-margin-start: 80px;
+  margin-left: 80px;
 }
 
 #brand {
   position: absolute;
   right: 0;
   bottom: -1.5em;
-  -moz-margin-end: 10px;
+  margin-right: 10px;
   opacity: .4;
 }
 
