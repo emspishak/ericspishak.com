@@ -6,14 +6,9 @@
 
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>This page can&rsquo;t be displayed</title>
-
-        <script src="errorPageStrings.js" language="javascript" type="text/javascript">
-        </script>
-        <script src="httpErrorPagesScripts.js" language="javascript" type="text/javascript">
-        </script>
     </head>
 
-    <body onLoad="javascript:getInfo();">
+    <body>
         <div id="contentContainer" class="mainContent">
             <div id="mainTitle" class="title">This page can&rsquo;t be displayed</div>
             <div class="taskSection" id="taskSection">
@@ -30,7 +25,7 @@
                     <li id="task2-5">Restart your router.</li>
                 </ul>
             </div>
-            <div><button id="diagnose" class="diagnoseButton" onclick="javascript:diagnoseConnectionAndRefresh(); return false;">Fix connection problems</button></div>
+            <div><button id="diagnose" class="diagnoseButton" onclick="javascript:location.reload();">Fix connection problems</button></div>
         </div>
     </body>
 </html>
