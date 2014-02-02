@@ -13,6 +13,12 @@ $last_cookie_name = "last";
 if (isset($_COOKIE[$last_cookie_name])) {
   $index = rand(0, count($error_pages) - 1);
   $error_page = array_keys($error_pages)[$index];
+
+  $last_error = $_COOKIE[$last_cookie_name];
+  if ($error_page === $last_error) {
+    $index = ($index + 1) % count($error_pages);
+    $error_page = array_keys($error_pages)[$index];
+  }
 } else {
   $browser = get_browser();
   $error_page = $browser->browser;
