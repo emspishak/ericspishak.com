@@ -12,13 +12,13 @@ ssl_prefer_server_ciphers on;
 ssl_session_cache shared:SSL:5m;
 
 server {
-    listen 443 ssl;
+    listen 443 ssl spdy;
     server_name www.ericspishak.com;
     return 301 https://ericspishak.com$request_uri;
 }
 
 server {
-    listen 443 ssl;
+    listen 443 ssl spdy;
     server_name ericspishak.com;
     index index.html;
     root /var/www/ericspishak.com;
