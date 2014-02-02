@@ -20,7 +20,14 @@ server {
 server {
     listen 443 ssl spdy;
     server_name ericspishak.com;
-    index index.html;
+    index index.html index.php;
     root /var/www/ericspishak.com;
     charset utf-8;
+
+    location ~* \.php$ {
+        try_files $uri =404;
+        fastcgi_pass unix:/var/run/php5-fpm.sock;
+        fastcgi_index index.php;
+        include fastcgi_params;
+    }
 }
