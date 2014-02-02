@@ -11,11 +11,11 @@ $error_pages = [
 $last_cookie_name = "last";
 
 if (isset($_COOKIE[$last_cookie_name])) {
-    $index = rand(0, count($error_pages) - 1);
-    $error_page = array_keys($error_pages)[$index];
+  $index = rand(0, count($error_pages) - 1);
+  $error_page = array_keys($error_pages)[$index];
 } else {
-    $browser = get_browser();
-    $error_page = $browser->browser;
+  $browser = get_browser();
+  $error_page = $browser->browser;
 }
 setcookie($last_cookie_name, $error_page, 0, "/e/", "ericspishak.com", true, true);
 
