@@ -2,4 +2,4 @@
 
 #!/bin/bash
 
-cp -R root/* /
+rsync -r --exclude=*~ --inplace root/* /
