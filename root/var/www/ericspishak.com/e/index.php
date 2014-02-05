@@ -10,9 +10,14 @@ $error_pages = [
 ];
 $last_cookie_name = "last";
 
-if (isset($_COOKIE[$last_cookie_name])) {
+function get_random_error_page() {
+  global $error_pages;
   $index = rand(0, count($error_pages) - 1);
-  $error_page = array_keys($error_pages)[$index];
+  return array_keys($error_pages)[$index];
+}
+
+if (isset($_COOKIE[$last_cookie_name])) {
+  $error_page = get_random_error_page();
 
   $last_error = $_COOKIE[$last_cookie_name];
   if ($error_page === $last_error) {
@@ -24,6 +29,10 @@ if (isset($_COOKIE[$last_cookie_name])) {
   $error_page = $browser->browser;
 }
 setcookie($last_cookie_name, $error_page, 0, "/e/", "ericspishak.com", true, true);
+
+if (!isset($error_pages[$error_page])) {
+  $error_page = get_random_error_page();
+}
 
 readfile($error_pages[$error_page]);
 ?>
