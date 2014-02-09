@@ -23,13 +23,23 @@ function parseMagnetUri(uri) {
   }
   properties['protocol'] = protocol;
 
-  if (pos >= uri.length || uri.charAt(pos) != ':') {
+  if (!checkNextChar(uri, pos, ':')) {
     properties['errors'].push('protocol should be followed by :');
     return properties;
   }
   pos++;
 
+  if (!checkNextChar(uri, pos, '?')) {
+    properties['errors'].push('protocol: should be followed by ?');
+    return properties;
+  }
+  pos++;
+
   return properties;
+}
+
+function checkNextChar(str, pos, chr) {
+  return pos < str.length && str.charAt(pos) == chr;
 }
 
 function writeResults(properties) {
