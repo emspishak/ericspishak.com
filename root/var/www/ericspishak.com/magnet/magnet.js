@@ -35,6 +35,25 @@ function parseMagnetUri(uri) {
   }
   pos++;
 
+  while (pos < uri.length) {
+    var key = '';
+    while (pos < uri.length && !checkNextChar(uri, pos, '=')) {
+      key += uri.charAt(pos);
+      pos++;
+    }
+    pos++;
+    var value = '';
+    while (pos < uri.length && !checkNextChar(uri, pos, '&')) {
+      value += uri.charAt(pos);
+      pos++;
+    }
+    pos++;
+    if (!(key in properties)) {
+      properties[key] = [];
+    }
+    properties[key].push(value);
+  }
+
   return properties;
 }
 
@@ -61,7 +80,23 @@ function writeResults(properties) {
       var dt = document.createElement('dt');
       dt.textContent = key;
       var dd = document.createElement('dd');
-      dd.textContent = value;
+      if (value instanceof Array) {
+        if (value.length == 0) {
+          continue;
+        } else if (value.length == 1) {
+          dd.textContent = value[0];
+        } else {
+          var ul = document.createElement('ul');
+          for (var i = 0; i < value.length; i++) {
+            var li = document.createElement('li');
+            li.textContent = value[i];
+            ul.appendChild(li);
+          }
+          dd.appendChild(ul);
+        }
+      } else {
+        dd.textContent = value;
+      }
       dl.appendChild(dt);
       dl.appendChild(dd);
     }
