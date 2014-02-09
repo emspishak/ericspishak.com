@@ -78,24 +78,24 @@ function writeResults(properties) {
     var value = properties[key];
     if (value) {
       var dt = document.createElement('dt');
-      dt.textContent = key;
+      dt.textContent = decodeURIComponent(key);
       var dd = document.createElement('dd');
       if (value instanceof Array) {
         if (value.length == 0) {
           continue;
         } else if (value.length == 1) {
-          dd.textContent = value[0];
+          dd.textContent = decodeURIComponent(value[0]);
         } else {
           var ul = document.createElement('ul');
           for (var i = 0; i < value.length; i++) {
             var li = document.createElement('li');
-            li.textContent = value[i];
+            li.textContent = decodeURIComponent(value[i]);
             ul.appendChild(li);
           }
           dd.appendChild(ul);
         }
       } else {
-        dd.textContent = value;
+        dd.textContent = decodeURIComponent(value);
       }
       dl.appendChild(dt);
       dl.appendChild(dd);
