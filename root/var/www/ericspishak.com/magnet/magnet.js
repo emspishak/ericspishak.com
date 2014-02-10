@@ -18,25 +18,27 @@ function parseMagnetUri(uri) {
 
   properties['protocol'] = reader.readUntil(':');
 
-  if (reader.readNextChar() !== ':') {
+  if (reader.hasNextChar() && reader.readNextChar() !== ':') {
     properties['errors'].push('protocol should be followed by :');
     return properties;
   }
 
-  if (reader.readNextChar() !== '?') {
+  if (reader.hasNextChar() && reader.readNextChar() !== '?') {
     properties['errors'].push('protocol: should be followed by ?');
     return properties;
   }
 
   while (reader.hasNextChar()) {
     var key = reader.readUntil('=');
-    if (!reader.hasNextChar() || reader.readNextChar() !== '=') {
+    if (reader.hasNextChar() && reader.readNextChar() !== '=') {
       properties['errors'].push('key must be followed by =');
+      return properties;
     }
 
     var value = reader.readUntil('&');
     if (reader.hasNextChar() && reader.readNextChar() !== '&') {
       properties['errors'].push('value must be follow by nothing or &');
+      return properties;
     }
 
     if (!properties.hasOwnProperty(key)) {
