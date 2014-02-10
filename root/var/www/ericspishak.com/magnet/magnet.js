@@ -12,42 +12,44 @@ function handleMagnetUriInput() {
 }
 
 function parseMagnetUri(uri) {
+  var reader = new CharReader(uri);
   var properties = {};
   properties['errors'] = [];
-  var pos = 0;
 
   var protocol = '';
-  while (pos < uri.length && uri.charAt(pos) != ':') {
-    protocol += uri.charAt(pos);
-    pos++;
+  while (reader.hasNextChar() && reader.getNextChar() !== ':') {
+    protocol += reader.readNextChar();
   }
   properties['protocol'] = protocol;
 
-  if (!checkNextChar(uri, pos, ':')) {
+  if (reader.readNextChar() !== ':') {
     properties['errors'].push('protocol should be followed by :');
     return properties;
   }
-  pos++;
 
-  if (!checkNextChar(uri, pos, '?')) {
+  if (reader.readNextChar() !== '?') {
     properties['errors'].push('protocol: should be followed by ?');
     return properties;
   }
-  pos++;
 
-  while (pos < uri.length) {
+  while (reader.hasNextChar()) {
     var key = '';
-    while (pos < uri.length && !checkNextChar(uri, pos, '=')) {
-      key += uri.charAt(pos);
-      pos++;
+    while (reader.hasNextChar() && reader.getNextChar() !== '=') {
+      key += reader.readNextChar();
     }
-    pos++;
+    if (!reader.hasNextChar() || reader.readNextChar() !== '=') {
+      properties['errors'].push('key must be followed by =');
+    }
+
     var value = '';
-    while (pos < uri.length && !checkNextChar(uri, pos, '&')) {
-      value += uri.charAt(pos);
-      pos++;
+    while (reader.hasNextChar() && reader.getNextChar() !== '&') {
+      value += reader.readNextChar();
     }
-    pos++;
+
+    if (reader.hasNextChar() && reader.readNextChar() !== '&') {
+      properties['errors'].push('value must be follow by nothing or &');
+    }
+
     if (!(key in properties)) {
       properties[key] = [];
     }
@@ -55,10 +57,6 @@ function parseMagnetUri(uri) {
   }
 
   return properties;
-}
-
-function checkNextChar(str, pos, chr) {
-  return pos < str.length && str.charAt(pos) == chr;
 }
 
 function writeResults(properties) {
@@ -119,5 +117,32 @@ function writeErrors(errors) {
       errorsUl.appendChild(li);
     }
     errorsElement.appendChild(errorsUl);
+  }
+}
+
+function CharReader(str) {
+  this.str = str;
+  this.pos = 0;
+}
+
+CharReader.prototype.hasNextChar = function() {
+  return this.pos < this.str.length;
+}
+
+CharReader.prototype.getNextChar = function() {
+  this.checkHasNextChar();
+  return this.str.charAt(this.pos);
+}
+
+CharReader.prototype.readNextChar = function() {
+  this.checkHasNextChar();
+  var c = this.getNextChar();
+  this.pos++;
+  return c;
+}
+
+CharReader.prototype.checkHasNextChar = function() {
+  if (!this.hasNextChar()) {
+    throw new RangeError("error");
   }
 }
