@@ -39,7 +39,7 @@ function parseMagnetUri(uri) {
       properties['errors'].push('value must be follow by nothing or &');
     }
 
-    if (!(key in properties)) {
+    if (!properties.hasOwnProperty(key)) {
       properties[key] = [];
     }
     properties[key].push(value);
