@@ -16,11 +16,7 @@ function parseMagnetUri(uri) {
   var properties = {};
   properties['errors'] = [];
 
-  var protocol = '';
-  while (reader.hasNextChar() && reader.getNextChar() !== ':') {
-    protocol += reader.readNextChar();
-  }
-  properties['protocol'] = protocol;
+  properties['protocol'] = reader.readUntil(':');
 
   if (reader.readNextChar() !== ':') {
     properties['errors'].push('protocol should be followed by :');
@@ -33,19 +29,12 @@ function parseMagnetUri(uri) {
   }
 
   while (reader.hasNextChar()) {
-    var key = '';
-    while (reader.hasNextChar() && reader.getNextChar() !== '=') {
-      key += reader.readNextChar();
-    }
+    var key = reader.readUntil('=');
     if (!reader.hasNextChar() || reader.readNextChar() !== '=') {
       properties['errors'].push('key must be followed by =');
     }
 
-    var value = '';
-    while (reader.hasNextChar() && reader.getNextChar() !== '&') {
-      value += reader.readNextChar();
-    }
-
+    var value = reader.readUntil('&');
     if (reader.hasNextChar() && reader.readNextChar() !== '&') {
       properties['errors'].push('value must be follow by nothing or &');
     }
@@ -141,8 +130,16 @@ CharReader.prototype.readNextChar = function() {
   return c;
 }
 
+CharReader.prototype.readUntil = function(chr) {
+  var str = '';
+  while (this.hasNextChar() && this.getNextChar() !== chr) {
+    str += this.readNextChar();
+  }
+  return str;
+}
+
 CharReader.prototype.checkHasNextChar = function() {
   if (!this.hasNextChar()) {
-    throw new RangeError("error");
+    throw new RangeError();
   }
 }
