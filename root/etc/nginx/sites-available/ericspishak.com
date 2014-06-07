@@ -11,6 +11,12 @@ ssl_ciphers 'ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA
 ssl_prefer_server_ciphers on;
 ssl_session_cache shared:SSL:5m;
 
+ssl_stapling on;
+ssl_stapling_verify on;
+resolver 8.8.8.8 8.8.4.4 valid=300s;
+resolver_timeout 5s;
+ssl_trusted_certificate /etc/nginx/ssl/ericspishak.com/ericspishak.com-stapling.crt;
+
 server {
     listen 443 ssl spdy;
     server_name www.ericspishak.com;
