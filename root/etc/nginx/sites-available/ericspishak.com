@@ -21,6 +21,7 @@ server {
     listen 443 ssl spdy;
     server_name www.ericspishak.com;
     return 301 https://ericspishak.com$request_uri;
+    add_header Strict-Transport-Security "max-age=31536000; includeSubdomains";
 }
 
 server {
@@ -29,6 +30,7 @@ server {
     index index.html index.php;
     root /var/www/ericspishak.com;
     charset utf-8;
+    add_header Strict-Transport-Security "max-age=31536000; includeSubdomains";
 
     location ~* \.php$ {
         try_files $uri =404;
