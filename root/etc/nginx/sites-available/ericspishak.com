@@ -27,6 +27,6 @@ server {
         try_files $uri =404;
         fastcgi_pass unix:/var/run/php5-fpm.sock;
         fastcgi_index index.php;
-        include fastcgi_params;
+        include fastcgi.conf;
     }
 }
