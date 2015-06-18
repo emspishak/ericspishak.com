@@ -1,15 +1,15 @@
 body {
-    background-color: #FEFDEF;
+    background-color: #F5F5F5;
 }
 
-.cascade-pass {
+.main-image {
     max-width: 700px;
     width: 100%;
 }
 
 .content {
-    background-color: white;
-    border: 2px solid #F2EFC7;
+    background-color: #FFFFFF;
+    border: 2px solid #EEEEEE;
     margin: 48px auto;
     max-width: 800px;
     text-align: center;
@@ -23,25 +23,24 @@ h1 {
 
 nav li {
     display: inline-block;
-    font-family: 'Lora', serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 1.1rem;
+    font-variant: small-caps;
     list-style: none;
-    margin: 0 16px;
+    margin: 8px 16px;
 }
 
 nav li a:link,
 nav li a:visited,
 nav li a:active {
-    color: #5588BB;
+    color: #808080;
     text-decoration: none;
 }
 
+nav li a:hover,
 nav li a.active {
-    color: #114488;
-}
-
-nav li a:hover {
     border-bottom: 2px solid;
+    color: black;
 }
 
 nav ul {
