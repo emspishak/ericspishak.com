@@ -1,11 +1,20 @@
 <?php
-function top() {
+abstract class Page {
+  const HOME = "Home";
+  const WEDDING = "Wedding";
+  const PHOTOS = "Photos";
+  const REGISTRY = "Registry";
+  const ACCOMMODATIONS = "Accommodations";
+  const TRAVEL = "Travel";
+}
+
+function top($page) {
   ?>
 <!DOCTYPE html>
 <html>
   <head>
     <title>Mandi &amp; Eric</title>
-    <link href="style.css" rel="stylesheet">
+    <link href="/style.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Josefin+Sans|Poiret+One" rel="stylesheet">
     <meta name=viewport content="width=device-width, initial-scale=1">
     <script>
@@ -24,16 +33,38 @@ function top() {
         <h1>Mandi &amp; Eric</h1>
         <nav>
           <ul>
-            <li><a href="/" class="active">Home</a></li>
-            <li><a href="/wedding/">Wedding</a></li>
-            <li><a href="/photos/">Photos</a></li>
-            <li><a href="/registry/">Registry</a></li>
-            <li><a href="/accomodations/">Accommodations</a></li>
-            <li><a href="/travel/">Travel</a></li>
+            <?php
+            page_link(Page::HOME, $page);
+            page_link(Page::WEDDING, $page);
+            page_link(Page::PHOTOS, $page);
+            page_link(Page::REGISTRY, $page);
+            page_link(Page::ACCOMMODATIONS, $page);
+            page_link(Page::TRAVEL, $page);
+            ?>
           </ul>
         </nav>
       </header>
       <main>
+  <?php
+}
+
+function page_link($link, $current_page) {
+  if ($link == Page::HOME) {
+    $href = "/";
+  } else {
+    $href = "/" . strtolower($link) . "/";
+  }
+  ?>
+  <li>
+    <a href="<?= $href; ?>"
+        <?php
+        if ($link == $current_page) {
+          echo "class=\"active\"";
+        }
+        ?>>
+      <?= $link; ?>
+    </a>
+  </li>
   <?php
 }
 

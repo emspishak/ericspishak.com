@@ -1,8 +1,7 @@
 <?php
-   include_once("template.php");
-   top();
+include_once("template.php");
+top(Page::HOME);
 ?>
-
 <img src="images/fall_ball.jpg" alt="Mandi and Eric" class="main-image">
 <p>
   Come celebrate our wedding
@@ -17,5 +16,5 @@
   Some short text about how great Mandi and Eric are, all the fun things they've done and how excited they are to get married.
 </p>
 <?php
-   footer();
+footer();
 ?>
