@@ -21,6 +21,10 @@ h1 {
     font-size: 3rem;
 }
 
+main {
+    padding: 50px;
+}
+
 nav li {
     display: inline-block;
     font-family: 'Josefin Sans', sans-serif;
@@ -44,7 +48,12 @@ nav li a.active {
 }
 
 nav ul {
+    margin: 0;
     padding: 0;
+}
+
+#galleria {
+    height: 500px;
 }
 
 @media (max-width: 800px) {
