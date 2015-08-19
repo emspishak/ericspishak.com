@@ -313,9 +313,20 @@ top(Page::PHOTOS);
 
   Galleria.loadTheme('/scripts/galleria.classic.min.js');
   Galleria.configure({
+    autoplay: 5000,
     dataSource: images
   });
   Galleria.run('#galleria');
+
+document.onkeydown = function(e) {
+  var event = e || window.event;
+  var key = event.keyCode;
+  if (key == 37) { // left
+    document.getElementsByClassName('galleria-image-nav-left')[0].click();
+  } else if (key == 39) { // right
+    document.getElementsByClassName('galleria-image-nav-right')[0].click();
+  }
+};
 </script>
 <?php
 footer();
