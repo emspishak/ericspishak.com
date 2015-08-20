@@ -50,8 +50,8 @@ top(Page::PHOTOS);
       title: 'Cascade Pass, North Cascades National Park, WA'
     },
     {
-      image: '/images/central_park_3.jpg',
-      thumb: '/images/thumbs/central_park_3.jpg',
+      image: '/images/central_park_2.jpg',
+      thumb: '/images/thumbs/central_park_2.jpg',
       title: 'Central Park, New York'
     },
     {
