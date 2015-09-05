@@ -30,7 +30,7 @@ function top($page) {
   <body>
     <div class="content">
       <header>
-        <h1>Mandi &amp; Eric</h1>
+        <h1><a href="/">Mandi &amp; Eric</a></h1>
         <nav>
           <ul>
             <?php
