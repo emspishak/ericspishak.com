@@ -62,6 +62,10 @@ nav ul {
     height: 500px;
 }
 
+.name-and {
+    font-style: italic;
+}
+
 .story-image {
     background: no-repeat center/contain url('/images/first.jpg');
     height: 300px;

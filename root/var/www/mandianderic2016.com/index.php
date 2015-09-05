@@ -6,11 +6,17 @@ top(Page::HOME);
 <p>
   Come celebrate our wedding
 </p>
-<p>
-  Mandi Thomas and Eric Spishak
+<p class="name">
+  Mandi Thomas
+</p>
+<p class="name-and">
+  &mdash; and &mdash;
+</p>
+<p class="name">
+  Eric Spishak
 </p>
 <p>
-  Saturday, April 30, 2016
+  Saturday, September 24, 2016
 </p>
 <p>
   On September 24, 2016, Eric Spishak and Mandi Thomas will finally
