@@ -14,7 +14,7 @@ function top($page) {
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mandi &amp; Eric</title>
+    <title><?= $page == PAGE::HOME ? "" : $page . " - " ?>Mandi &amp; Eric</title>
     <link href="/style.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Josefin+Sans|Poiret+One|Antic+Slab" rel="stylesheet">
     <meta name=viewport content="width=device-width, initial-scale=1">
