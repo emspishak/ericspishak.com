@@ -1,6 +1,7 @@
 <?php
 abstract class Page {
   const HOME = "Home";
+  const STORY = "Story";
   const WEDDING = "Wedding";
   const PHOTOS = "Photos";
   const REGISTRY = "Registry";
@@ -35,11 +36,12 @@ function top($page) {
           <ul>
             <?php
             page_link(Page::HOME, $page);
+            page_link(Page::STORY, $page);
             page_link(Page::WEDDING, $page);
             page_link(Page::PHOTOS, $page);
-            page_link(Page::REGISTRY, $page);
             page_link(Page::ACCOMMODATIONS, $page);
             page_link(Page::TRAVEL, $page);
+            page_link(Page::REGISTRY, $page);
             ?>
           </ul>
         </nav>
