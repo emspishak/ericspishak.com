@@ -27,6 +27,7 @@ h1 a {
 }
 
 main {
+    font-family: 'Antic Slab', serif;
     padding: 50px;
 }
 
@@ -55,10 +56,6 @@ nav li a.active {
 nav ul {
     margin: 0;
     padding: 0;
-}
-
-p {
-    font-family: 'Antic Slab', serif;
 }
 
 #galleria {
