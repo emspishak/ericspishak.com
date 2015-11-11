@@ -28,7 +28,7 @@ h1 a {
 
 main {
     font-family: 'Antic Slab', serif;
-    padding: 50px;
+    padding: 25px 50px;
 }
 
 main ul {
@@ -79,6 +79,10 @@ nav ul {
 @media (max-width: 800px) {
     body {
         background-color: white;
+    }
+
+    main {
+        padding: 25px;
     }
 
     .content {
