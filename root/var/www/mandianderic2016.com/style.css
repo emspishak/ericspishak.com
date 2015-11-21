@@ -16,6 +16,26 @@ body {
     width: 75%;
 }
 
+.emoji {
+    background-image: url('/images/emojis.png');
+    background-size: 1em;
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+}
+
+.emoji.airplane {
+    background-position: 0 -2em;
+}
+
+.emoji.car {
+    background-position: 0 -1em;
+}
+
+.emoji.wedding {
+    background-position: 0 0;
+}
+
 h1 {
     font-family: 'Poiret One', cursive;
     font-size: 3rem;

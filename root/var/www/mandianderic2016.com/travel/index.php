@@ -2,6 +2,7 @@
 include_once(__DIR__ . "/../template.php");
 top(Page::TRAVEL);
 ?>
+<!-- Emojis from https://github.com/twitter/twemoji licensed under CC-BY 4.0 -->
 <p>
   Yosemite National Park is an approximately 3-4 hour drive from multiple
   airports in the area. Here's how you get to us:
@@ -9,7 +10,7 @@ top(Page::TRAVEL);
 <div>
   <div>
     <h2>
-      Step 1: Fly
+      Step 1: Fly <span class="emoji airplane"></span>
     </h2>
     <p>
       Your airport options are:
@@ -46,7 +47,7 @@ top(Page::TRAVEL);
   </div>
   <div>
     <h2>
-      Step 2: Rent a car
+      Step 2: Rent a car <span class="emoji car"></span>
     </h2>
     <p>
       All airports have car rental facilities.
@@ -65,7 +66,7 @@ top(Page::TRAVEL);
   </div>
   <div>
     <h2>
-      Step 3: Drive to the wedding
+      Step 3: Drive to the wedding <span class="emoji wedding"></span>
     </h2>
     <p>
       The wedding is located at:
