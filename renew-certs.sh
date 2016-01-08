@@ -10,8 +10,7 @@ renew () {
         --webroot-path /var/www/$domain \
         -d $domain \
         -d www.$domain \
-        --server https://acme-v01.api.letsencrypt.org/directory \
-        --agree-dev-preview
+        --server https://acme-v01.api.letsencrypt.org/directory
 }
 
 renew "ericspishak.com"
