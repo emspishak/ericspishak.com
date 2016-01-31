@@ -91,9 +91,21 @@ nav ul {
     font-style: italic;
 }
 
+.room-types > li {
+    margin: .5em 0;
+}
+
+.room-title {
+    font-weight: bold;
+}
+
 .story-image {
     background: no-repeat center/contain url('/images/first.jpg');
     height: 300px;
+}
+
+.mobile-only {
+    display: none;
 }
 
 @media (max-width: 800px) {
@@ -109,5 +121,13 @@ nav ul {
         border: none;
         margin: 0;
         width: 100%;
+    }
+
+    .desktop-only {
+        display: none;
+    }
+
+    .mobile-only {
+        display: initial;
     }
 }
