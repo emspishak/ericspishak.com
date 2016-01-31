@@ -78,7 +78,7 @@ top(Page::TRAVEL);
     </p>
     <p>
       Driving directions are available on the Evergreen Lodge
-      <a href="http://www.evergreenlodge.com/yosemite-planning/yosemite-directions-transportation/">website</a>.
+      <a href="http://www.evergreenlodge.com/yosemite-planning/yosemite-directions-transportation/" target="_blank">website</a>.
       Please keep in mind that you may not have cell service the whole drive so
       plan ahead with directions.
     </p>
