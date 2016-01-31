@@ -41,7 +41,7 @@ top(Page::TRAVEL);
       Each airport has its pros and cons so we encourage you to do your research
       and find the most convenient, easiest, and cheapest flights possible. For
       example, Fresno or Sacramento may have less traffic than leaving from one
-      of the central Bay Area airports. Don’t hesitate to reach out to us when
+      of the central Bay Area airports. Don't hesitate to reach out to us when
       booking your travel so we can help make it easier for you.
     </p>
   </div>
