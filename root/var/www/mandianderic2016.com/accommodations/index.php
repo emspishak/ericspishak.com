@@ -3,7 +3,7 @@ include_once(__DIR__ . "/../template.php");
 top(Page::ACCOMMODATIONS);
 ?>
 <p>
-  We encourage all guests to stay onsite
+  We encourage all guests to stay on-site
   at <a href="http://www.evergreenlodge.com/" target="_blank">The
   Evergreen Lodge</a> as it is where all of the wedding weekend events
   will be taking place making it convenient and fun for
@@ -114,7 +114,7 @@ top(Page::ACCOMMODATIONS);
   Thomas/Spishak wedding on September 24, 2016.
 </p>
 
-<h2>Other Onsite Treats</h2>
+<h2>Other On-site Treats</h2>
 
 <p>
   The majority of the wedding weekend will be taken care of by us
@@ -133,7 +133,7 @@ top(Page::ACCOMMODATIONS);
   As for activities to keep you entertained when Mandi and Eric are
   not entertaining you with their vows, dance moves, and bottomless
   bloody marys. There is a pretty unbelievable salt water pool at the
-  lodge that offers a poolside barbeque, poolside bar, and just in
+  lodge that offers a poolside barbecue, poolside bar, and just in
   general a gorgeous setting to take a dip. Fall in the love with the
   pool <a href="http://www.evergreenlodge.com/play/yosemite-swimming-pool-area/"
   target="_blank">here</a>.

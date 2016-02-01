@@ -34,7 +34,7 @@ top(Page::TRAVEL);
     </ul>
     <p>
       We recommend <strong>Oakland International Airport</strong> because it's a
-      large aiport and it avoids the unpredictability and nightmare that is the
+      large airport and it avoids the unpredictability and nightmare that is the
       Bay Bridge traffic if you fly into San Francisco International Airport.
     </p>
     <p>
@@ -55,7 +55,7 @@ top(Page::TRAVEL);
     <p>
       Pairing up with or organizing a group to carpool to Yosemite is a great
       way to save money on renting a car AND have double or triple the fun on
-      the mini roadtrip!
+      the mini road trip!
     </p>
     <p>
       If you would like to do this, but are unsure of who else is going or need
