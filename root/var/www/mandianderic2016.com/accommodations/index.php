@@ -20,14 +20,13 @@ top(Page::ACCOMMODATIONS);
 <ul class="room-types">
   <li>
     <span class="room-title">Vintage Cabin</span> ($210 per night) - A
-    studio with a queen bed. Sleeps up to 2. More
+    studio with a queen bed. Sleeps up to two. More
     details <a href="http://www.evergreenlodge.com/yosemite-cabins/yosemite-cabins-custom-camping/vintage-cabins/"
     target="_blank">here</a>.
   </li>
   <li>
     <span class="room-title">Deluxe Cabin</span> ($270 per night) - A
-    studio with a king bed and a queen sofa bed. Sleeps up to four
-    people. More
+    studio with a king bed and a queen sofa bed. Sleeps up to four. More
     details <a href="http://www.evergreenlodge.com/yosemite-cabins/yosemite-cabins-custom-camping/deluxe-cabins/"
     target="_blank">here</a>.
   </li>
