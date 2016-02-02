@@ -58,6 +58,10 @@ h1 a {
     text-decoration: none;
 }
 
+header {
+    overflow: hidden;
+}
+
 main {
     font-family: 'Antic Slab', serif;
     padding: 25px 50px;
@@ -123,6 +127,7 @@ nav ul {
 @media (max-width: 800px) {
     body {
         background-color: white;
+        margin: 0;
     }
 
     main {
@@ -131,6 +136,7 @@ nav ul {
 
     .content {
         border: none;
+        border-radius: 0;
         margin: 0;
         width: 100%;
     }
