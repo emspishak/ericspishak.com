@@ -54,5 +54,5 @@ top(Page::STORY);
   lives together.
 </p>
 <?php
-footer();
+footer(FooterIcon::BINOCULARS, FooterIcon::BOOT, FooterIcon::FLASHLIGHT);
 ?>

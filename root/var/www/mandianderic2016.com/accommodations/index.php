@@ -138,5 +138,5 @@ top(Page::ACCOMMODATIONS);
   target="_blank">here</a>.
 </p>
 <?php
-footer();
+footer(FooterIcon::MOUNTAINS, FooterIcon::TENT, FooterIcon::FLASHLIGHT);
 ?>

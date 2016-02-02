@@ -33,5 +33,5 @@ top(Page::HOME);
   all in Yosemite!
 </p>
 <?php
-footer();
+footer(FooterIcon::MOUNTAINS, FooterIcon::TENT, FooterIcon::KNOT);
 ?>

@@ -329,5 +329,5 @@ document.onkeydown = function(e) {
 };
 </script>
 <?php
-footer();
+footer(FooterIcon::MOUNTAINS, FooterIcon::LANTERN, FooterIcon::SIGN);
 ?>

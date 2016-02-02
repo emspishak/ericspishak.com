@@ -9,6 +9,18 @@ abstract class Page {
   const TRAVEL = "Travel";
 }
 
+abstract class FooterIcon {
+  const BINOCULARS = "binoculars";
+  const BOOT = "boot";
+  const CAMPFIRE = "campfire";
+  const FLASHLIGHT = "flashlight";
+  const KNOT = "knot";
+  const LANTERN = "lantern";
+  const MOUNTAINS = "mountains";
+  const SIGN = "sign";
+  const TENT = "tent";
+}
+
 function top($page) {
   ?>
 <!DOCTYPE html>
@@ -70,8 +82,13 @@ function page_link($link, $current_page) {
   <?php
 }
 
-function footer() {
+function footer($icon1, $icon2, $icon3) {
   ?>
+        <p class="footer-icons">
+          <img src="/icons/<?= $icon1 ?>.png" alt="<?= $icon1 ?>" class="desktop-only">
+          <img src="/icons/<?= $icon2 ?>.png" alt="<?= $icon2 ?>">
+          <img src="/icons/<?= $icon3 ?>.png" alt="<?= $icon3 ?>" class="desktop-only">
+        </p>
       </main>
     </div>
   </body>

@@ -85,5 +85,5 @@ top(Page::TRAVEL);
   </div>
 </div>
 <?
-footer();
+footer(FooterIcon::BINOCULARS, FooterIcon::BOOT, FooterIcon::KNOT);
 ?>

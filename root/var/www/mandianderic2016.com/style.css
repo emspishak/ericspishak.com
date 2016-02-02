@@ -36,6 +36,16 @@ body {
     background-position: 0 0;
 }
 
+.footer-icons {
+    margin-bottom: 0;
+    margin-top: 25px;
+}
+
+.footer-icons > img {
+    height: 100px;
+    margin: 0 10px;
+}
+
 h1 {
     font-family: 'Poiret One', cursive;
     font-size: 3rem;

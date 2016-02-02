@@ -4,5 +4,5 @@ top(Page::WEDDING);
 ?>
 Wedding!
 <?php
-footer();
+footer(FooterIcon::CAMPFIRE, FooterIcon::TENT, FooterIcon::KNOT);
 ?>

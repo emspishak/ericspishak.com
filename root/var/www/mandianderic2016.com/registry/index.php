@@ -4,5 +4,5 @@ top(Page::REGISTRY);
 ?>
 Registry
 <?php
-footer();
+footer(FooterIcon::CAMPFIRE, FooterIcon::LANTERN, FooterIcon::FLASHLIGHT);
 ?>
