@@ -1,5 +1,5 @@
 body {
-    background-color: #F5F5F5;
+    background-color: #D3DFD5;
 }
 
 .main-image {
@@ -8,8 +8,10 @@ body {
 }
 
 .content {
-    background-color: #FFFFFF;
-    border: 2px solid #EEEEEE;
+    background-color: #FAFAF0;
+    background-image: url('/images/background.png');
+    border: 1px solid #97B59E;
+    border-radius: 50px;
     margin: 48px auto;
     max-width: 800px;
     text-align: center;
