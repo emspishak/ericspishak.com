@@ -88,6 +88,7 @@ function footer($icon1, $icon2, $icon3) {
           <img src="/icons/<?= $icon1 ?>.png" alt="<?= $icon1 ?>" class="desktop-only">
           <img src="/icons/<?= $icon2 ?>.png" alt="<?= $icon2 ?>">
           <img src="/icons/<?= $icon3 ?>.png" alt="<?= $icon3 ?>" class="desktop-only">
+          <!-- Illustration credit: http://www.vecteezy.com -->
         </p>
       </main>
     </div>
