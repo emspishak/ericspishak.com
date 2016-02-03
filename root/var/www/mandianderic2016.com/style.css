@@ -3,7 +3,7 @@ a {
 }
 
 body {
-    background-color: #D3DFD5;
+    background: fixed url('/images/trees.png') 5% 100% / auto 80% no-repeat #D3DFD5;
 }
 
 .main-image {
@@ -151,5 +151,12 @@ nav ul {
 
     .mobile-only {
         display: initial;
+    }
+}
+
+@media (max-width: 1300px) {
+    body {
+        background-image: url('/images/tree.png');
+        background-size: 5% auto;
     }
 }
