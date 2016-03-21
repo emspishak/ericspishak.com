@@ -5,7 +5,7 @@ top(Page::STORY);
 <div class="story-image"></div>
 <p>
   Eric and Mandi met the summer of 2009 through their mutual friend,
-  John. Both invited to John's house one night, Mandi liked Eric's
+  John Wiegand. Both invited to John's house one night, Mandi liked Eric's
   jeans and Eric liked everything about Mandi. The following weekend
   Mandi and Eric were scheduled to attend Seattle's 3-day music
   festival, Bumbershoot. As fate would have it, Eric would befriend
