@@ -3,12 +3,14 @@ include_once(__DIR__ . "/../template.php");
 top(Page::ACCOMMODATIONS);
 ?>
 <p>
-  We encourage all guests to stay on-site
+  For your convenience, we encourage all guests to stay on-site
   at <a href="http://www.evergreenlodge.com/" target="_blank">The
-  Evergreen Lodge</a> as it is where all of the wedding weekend events
-  will be taking place making it convenient and fun for
-  everyone. Think summer camp, but for adults. Please note: there is a
-  two-night minimum.
+  Evergreen Lodge</a> as that is where all of the wedding weekend
+  festivities will be taking place. Think summer camp, but for adults!
+</p>
+
+<p>
+  <em>Please note: there is a two-night minimum.</em>
 </p>
 
 <h2>Room Types</h2>
@@ -78,6 +80,10 @@ top(Page::ACCOMMODATIONS);
 </p>
 
 <p>
+  ..........
+</p>
+
+<p>
   We understand weddings can add up and highly encourage everyone to
   shack up together to save some money and make some new friends. Most
   of the cabins sleep 4 people, if not more, making it an easy option
@@ -96,15 +102,6 @@ top(Page::ACCOMMODATIONS);
 <h2>How to Book</h2>
 
 <p>
-  We have a room block reserved for the wedding. You must call to book
-  a room in our wedding block and get our room prices (unfortunately,
-  you cannot book online). Our room block is reserved until June 23rd
-  and we only have a limited number of rooms so please book early!
-  Trust us, there will be no availability elsewhere as Yosemite
-  National Park has campgrounds and hotels book up a year out.
-</p>
-
-<p>
   To book, please call The Evergreen Lodge
   at
   <span class="desktop-only"><strong>(209) 379-2606</strong></span>
@@ -113,30 +110,15 @@ top(Page::ACCOMMODATIONS);
   Thomas/Spishak wedding on September 24, 2016.
 </p>
 
-<h2>Other On-site Treats</h2>
-
 <p>
-  The majority of the wedding weekend will be taken care of by us
-  meaning, there is pretty much only one meal you will have to forge
-  yourself. We thought it would be helpful to list a few other
-  commodities available to you, including where to get breakfast the
-  day of the wedding!
+  We have a room block reserved for the wedding. You must call to book
+  a room in our wedding block and get our room prices (unfortunately,
+  you cannot book online). Our room block is reserved until June 23rd
+  and we only have a limited number of rooms so please book early!
+  Trust us, there will be no availability elsewhere as Yosemite
+  National Park has campgrounds and hotels book up a year out.
 </p>
 
-<p>
-  <a href="http://www.evergreenlodge.com/yosemite-dining/main-lodge/"
-  target="_blank">Main Lodge Dining</a>
-</p>
-
-<p>
-  As for activities to keep you entertained when Mandi and Eric are
-  not entertaining you with their vows, dance moves, and bottomless
-  bloody marys. There is a pretty unbelievable salt water pool at the
-  lodge that offers a poolside barbecue, poolside bar, and just in
-  general a gorgeous setting to take a dip. Fall in the love with the
-  pool <a href="http://www.evergreenlodge.com/play/yosemite-swimming-pool-area/"
-  target="_blank">here</a>.
-</p>
 <?php
 footer(FooterIcon::MOUNTAINS, FooterIcon::TENT, FooterIcon::FLASHLIGHT);
 ?>

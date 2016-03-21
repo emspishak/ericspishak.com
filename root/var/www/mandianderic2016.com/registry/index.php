@@ -9,7 +9,7 @@ top(Page::REGISTRY);
   kitchen goods when living with roommates. It worked out pretty well
   for awhile that is until they decided to move in together. These two
   all of a sudden were headed to Target for a $200+ trip to purchase
-  literally everything one might need for a basic kitchen and home
+  literally anything one might need for a basic kitchen and home
   including everything from a whisk to drinking glasses. Needless to
   say our registries below will help us to finally replace the
   borderline dangerous items we have used over the last three years
