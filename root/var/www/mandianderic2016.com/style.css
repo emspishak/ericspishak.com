@@ -124,6 +124,15 @@ nav ul {
     height: 300px;
 }
 
+.crateandbarrel-logo, .williamssonoma-logo {
+    height: 31px;
+    max-width: 100%;
+}
+
+.heath-logo {
+    height: 90px;
+}
+
 .mobile-only {
     display: none;
 }
