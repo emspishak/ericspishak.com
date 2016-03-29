@@ -67,7 +67,7 @@ top(Page::ACCOMMODATIONS);
   </li>
   <li>
     <span class="room-title">Family Tent</span> ($130 per night) - One
-    queen and two twin full mattresses. Sleeps up to four. More
+    queen and two twin foam mattresses. Sleeps up to four. More
     details <a href="http://www.evergreenlodge.com/yosemite-cabins/yosemite-cabins-custom-camping/custom-camping/"
     target="_blank">here</a>.
   </li>
