@@ -17,7 +17,7 @@ top(Page::REGISTRY);
   we were cooking one evening).
 </p>
 
-<p>
+<p class="registry-logo">
   <a href="http://www.heathceramics.com/giftregistry/view/index/id/5840de8f9f88e03bec23b63f67c62aba/" target="_blank">
     <img src="/images/heath.png" alt="Heath Ceramics" class="heath-logo"/>
   </a>
@@ -37,7 +37,7 @@ top(Page::REGISTRY);
   <a href="http://www.heathceramics.com/giftregistry/view/index/id/5840de8f9f88e03bec23b63f67c62aba/" target="_blank">Register here!</a>
 </p>
 
-<p>
+<p class="registry-logo">
   <a href="https://secure.williams-sonoma.com/registry/crwf59w8lb/registry-list.html" target="_blank">
     <img src="/images/williamssonoma.svg" alt="Williams-Sonoma" class="williamssonoma-logo"/>
   </a>
@@ -54,7 +54,7 @@ top(Page::REGISTRY);
   <a href="https://secure.williams-sonoma.com/registry/crwf59w8lb/registry-list.html" target="_blank">Register here!</a>
 </p>
 
-<p>
+<p class="registry-logo">
   <a href="http://www.crateandbarrel.com/gift-registry/mandi-thomas-and-eric-spishak/r5475242" target="_blank">
     <img src="/images/crateandbarrel.svg" alt="Crate and Barrel" class="crateandbarrel-logo"/>
   </a>

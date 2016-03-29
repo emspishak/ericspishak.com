@@ -133,6 +133,10 @@ nav ul {
     height: 90px;
 }
 
+.registry-logo {
+    margin-top: 32px;
+}
+
 .mobile-only {
     display: none;
 }
