@@ -39,11 +39,11 @@ top(Page::WEDDING);
 <h3>Brunch with the newlyweds</h3>
 
 <p>
-  Please come say goodbye and have a bloody mary before returning home
+  Please come say goodbye and have a Bloody Mary before returning home
 </p>
 
 <p>
-  All festivities will take place at the Evergreen Lodge where accomodations are available.
+  All festivities will take place at the Evergreen Lodge where accommodations are available.
 </p>
 
 <h2>Wedding Party<h2>

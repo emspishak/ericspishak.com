@@ -19,7 +19,7 @@ top(Page::REGISTRY);
 
 <p>
   <a href="http://www.heathceramics.com/giftregistry/view/index/id/5840de8f9f88e03bec23b63f67c62aba/" target="_blank">
-    <img src="/images/heath.png" alt="Heath Cereamics" class="heath-logo"/>
+    <img src="/images/heath.png" alt="Heath Ceramics" class="heath-logo"/>
   </a>
 </p>
 
@@ -62,7 +62,7 @@ top(Page::REGISTRY);
 
 <p>
   Crate and Barrel, ole reliable. Although we became overwhelmed in
-  our registry endeavour at this monstrous store, there is nothing not
+  our registry endeavor at this monstrous store, there is nothing not
   to love about their home goods and kitchen essentials. Mandi and
   Eric have been slowly turning their apartment into a home that feels
   like them and are thrilled about getting to complete their mission

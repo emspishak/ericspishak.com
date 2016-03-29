@@ -26,7 +26,7 @@ top(Page::HOME);
   As you know, it's been years in the making, and finally after many
   late nights Pinteresting, months venue shopping, and too many DIY
   projects to count, it's all coming together. Our labor of love is
-  becoming a reality, and what better way to celebrate this joyus
+  becoming a reality, and what better way to celebrate this joyous
   occasion than spend it with you!
 </p>
 <p>
