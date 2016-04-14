@@ -39,7 +39,7 @@ top(Page::WEDDING);
 <h3>Brunch with the newlyweds</h3>
 
 <p>
-  Please come say goodbye and have a Bloody Mary before returning home
+  Please come say goodbye over brunch before returning home
 </p>
 
 <p>
