@@ -2,7 +2,7 @@
 include_once("template.php");
 top(Page::HOME);
 ?>
-<img src="images/fall_ball.jpg" alt="Mandi and Eric" class="main-image">
+<img src="images/hoh.jpg" alt="Mandi and Eric" class="main-image">
 <p>
   Come celebrate our wedding
 </p>
