@@ -308,6 +308,11 @@ top(Page::PHOTOS);
       image: '/images/whitney.jpg',
       thumb: '/images/thumbs/whitney.jpg',
       title: 'Mt. Whitney, CA'
+    },
+    {
+      image: '/images/fall_ball.jpg',
+      thumb: '/images/thumbs/fall_ball.jpg',
+      title: 'Fall Ball, Seattle'
     }
   ];
 
