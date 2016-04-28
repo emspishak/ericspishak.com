@@ -6,17 +6,17 @@ top(Page::HOME);
 <p>
   Come celebrate our wedding
 </p>
-<p class="name">
+<div class="name">
   Mandi Thomas
-</p>
+</div>
 <p class="name-and">
   &mdash; and &mdash;
 </p>
-<p class="name">
+<div class="name">
   Eric Spishak
-</p>
+</div>
 <p>
-  Saturday, September 24, 2016
+  Saturday, the twenty-fourth of September, two thousand and sixteen
 </p>
 <p>
   On September 24, 2016, Eric Spishak and Mandi Thomas will finally

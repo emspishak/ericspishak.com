@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Halo Handletter';
+    font-style: normal;
+    font-weight: 400;
+    src: local('HaloHandletter'), local('Halo Handletter'), url('/fonts/HaloHandletter.woff') format('woff');
+}
+
 a {
     color: #803F00;
 }
@@ -107,8 +114,14 @@ nav ul {
     height: 500px;
 }
 
+.name {
+    font-family: 'Halo Handletter', cursive;
+    font-size: 4rem;
+}
+
 .name-and {
     font-style: italic;
+    margin: 0;
 }
 
 .room-types > li {
