@@ -16,7 +16,7 @@ top(Page::WEDDING);
   Guests are encouraged to arrive in the early afternoon allowing time to enjoy a group hike in the Yosemite Valley.
 </p>
 
-<h3>Welcome BBQ</h3>
+<h3>5:30 PM Welcome BBQ</h3>
 
 <p>
   All friends and family are welcome to join
@@ -36,7 +36,7 @@ top(Page::WEDDING);
 
 <h2>Sunday, September 25th</h2>
 
-<h3>Brunch with the newlyweds</h3>
+<h3>8:30 AM Brunch with the newlyweds</h3>
 
 <p>
   Please come say goodbye over brunch before returning home
