@@ -82,6 +82,54 @@ top(Page::TRAVEL);
       Please keep in mind that you may not have cell service the whole drive so
       plan ahead with directions.
     </p>
+    <p>
+      We invite you to download this
+      <a href="https://open.spotify.com/user/1229506932/playlist/7etoe2uti2u5wmLavStccJ" target="_blank">Spotify playlist</a>
+      for your drive to Yosemite, courtesy of Ms. Julia Paleski, music
+      extraordinaire. This way, we can pretend we're all on a road trip together!
+    </p>
+    <p>
+      Need a pit stop? Say no more.
+    </p>
+    <p>
+      <strong>Iron Door Saloon, Groveland:</strong> You've almost made it to your
+      Evergreen Lodge turnout, but need to use the restroom or grab a beer? Look
+      no further than the Iron Door Saloon. Opened in 1852 as The Granite Store,
+      this place is packed with history, live music, and burgers.
+    </p>
+    <p>
+      <strong>
+        In-N-Out, various locations en route to Yosemite include: Pleasanton,
+        Livermore, Tracy, Manteca:
+      </strong>
+      Not from California (or Texas, Arizona, Oregon, Nevada)? Enjoy what is
+      arguably the best of its kind, yes, it's better than Dick's. Don't eat
+      meat? No problem! Consider ordering a Mandi &amp; Eric classic, the grilled
+      cheese. And don't forget to order a Neapolitan milkshake.
+    </p>
+    <p>
+      <em>
+        Note: Eric and Mandi have previously tested out and pre-approved each of
+        these locations for you.
+      </em>
+    </p>
+    <p>
+      <strong>Hula's, Escalon:</strong> Do you love soft serve ice cream? In the
+      mood for a juicy burger and some sweet potato fries or onion rings? You may
+      be skeptical when you roll up to the strip mall, but trust us, this place
+      is worth the stop!
+    </p>
+    <p>
+      <strong>Docs Q N Pit Stop, Modesto:</strong> This soul food has soul. In
+      the mood for some hearty meat and aren't a vegetarian like Eric and Mandi
+      are? Are you really just in it for the sides of mac and cheese and black
+      eyed peas? Look no further.
+    </p>
+    <p>
+      <strong>June Bug Cafe, Midpines</strong>: Looking for vegetarian or vegan
+      fare? Try the heirloom tomatoes, mediterranean plate, or veggie spinach
+      wrap for a healthy option on your drive.
+    </p>
   </div>
 </div>
 <?
