@@ -125,10 +125,11 @@ top(Page::WEDDING);
 </p>
 
 <p>
-  All festivities will take place at the Evergreen Lodge where accommodations are available.
+  All festivities will take place at the Evergreen Lodge where accommodations are
+  available.
 </p>
 
-<h2>Wedding Party<h2>
+<h2>Wedding Party</h2>
 
 <h3>Bridesmaids</h3>
 
