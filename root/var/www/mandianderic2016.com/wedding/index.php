@@ -14,7 +14,7 @@ top(Page::WEDDING);
 
 <h3>Informal Group Hike</h3>
 <p>
-  ***hike TBD*** 9:00am-2:00pm
+  9:00am-2:00pm
 </p>
 <p>
   <em>Meet in front of reception</em>
