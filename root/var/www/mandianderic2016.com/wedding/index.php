@@ -10,36 +10,118 @@ top(Page::WEDDING);
   The weekend schedule is as follows:
 </p>
 
-<h2>Friday, September 23rd</h2>
+<h2>Friday</h2>
 
+<h3>Informal Group Hike</h3>
 <p>
-  Guests are encouraged to arrive in the early afternoon allowing time to enjoy a group hike in the Yosemite Valley.
+  ***hike TBD*** 9:00am-2:00pm
+</p>
+<p>
+  <em>Meet in front of reception</em>
 </p>
 
-<h3>5:30 PM Welcome BBQ</h3>
-
+<h3>Welcome BBQ</h3>
 <p>
-  All friends and family are welcome to join
+  Coyote Hill 5:30pm-9:00pm
+</p>
+<p>
+  <em>Campfire and s'mores included</em>
 </p>
 
-<h2>Saturday, September 24th</h2>
-
-<h3>3:30 PM Wedding Ceremony</h3>
-
+<h2>Saturday</h2>
 <p>
-  Reception to follow immediately after
+  All guests encouraged to spend the morning relaxing by the pool, sleeping in,
+  or exploring the beautiful Hetch Hetchy or Yosemite Valleys. We love to see you
+  having fun, but please be back and ready for the ceremony promptly at 3:30pm.
 </p>
 
+<h3>Wedding Ceremony, Dinner &amp; Dancing</h3>
 <p>
-  10:00 PM Dance Party continues in the Tavern at the Evergreen Lodge
+  The Evergreen Lodge 3:30pm-10:00pm
+</p>
+<p>
+  <em>Ceremony at the meadow, see ceremony trailhead</em>
+</p>
+<p>
+  <em>Parade to the reception to follow</em>
 </p>
 
-<h2>Sunday, September 25th</h2>
-
-<h3>8:30 AM Brunch with the newlyweds</h3>
-
+<h3>The Party Continues</h3>
 <p>
-  Please come say goodbye over brunch before returning home
+  The Tavern 10:00pm-2:00am
+</p>
+<p>
+  <em>Dancing shoes required</em>
+</p>
+
+<h2>Sunday</h2>
+
+<h3>Farewell Brunch</h3>
+<p>
+  Main Lodge Patio 8:30am-11:00am
+</p>
+
+<h2>Oh snap!</h2>
+<p>
+  We would love you to share your photos with us. Please include the hashtag
+  <strong>#spishakthomaspromise</strong>
+</p>
+
+<h2>Suggested Activities</h2>
+<p>
+  Let's go on an adventure!
+</p>
+
+<h3>Hikes</h3>
+<h4>
+  Vernal Fall and Nevada Fall Trails - 1.6 to 5.4 miles round trip (1 to 6
+  hours), 1 hour drive
+</h4>
+<p>
+  Climb along nature's "giant staircase," where you are rewarded with close-up
+  views of two waterfalls and numerous geologic features (depending on how far
+  you choose to hike). Powerful and turbulent, these two waterfalls will soak you
+  in spring and entice you year-round.
+</p>
+
+<h4>
+  Tuolumne Grove of Giant Sequoias - 2.5 miles round trip (2 hours), 30 minute
+  drive
+</h4>
+<p>
+  Explore a couple dozen mature Giant Sequoias, including one you can walk
+  through.
+</p>
+
+<h4>
+  Lembert Dome - 2.8 miles round trip (3 hours), 1.5 hour drive
+</h4>
+<p>
+  Head up to the top of Lembert Dome for a spectacular view of Tuolumne Meadows
+  and surrounding peaks.
+</p>
+
+<h4>
+  Wapama Falls - 5 miles round trip (3 hours), 20 minute drive
+</h4>
+<p>
+  Wapama Fall is reached via a hike that follows the shoreline of the reservoir
+  with moderate up and downhill hiking. The trail includes spectacular views of
+  Tueeulala and Wapama Falls.
+</p>
+
+<h3>Spa</h3>
+<p>
+  The Evergreen Lodge has even more to offer with numerous spa treatments offered
+  in a peaceful massage cabana. Pamper yourself and book a treatment at the
+  activity desk!
+</p>
+
+<h3>Sports</h3>
+<p>
+  Take a dip in the salt water pool, test your skills on the bocce court, rent
+  bikes to explore on two wheels, or book a rafting, climbing, or Yosemite Valley
+  tour.
 </p>
 
 <p>
