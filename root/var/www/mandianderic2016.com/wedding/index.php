@@ -61,12 +61,6 @@ top(Page::WEDDING);
   Main Lodge Patio 8:30am-11:00am
 </p>
 
-<h2>Oh snap!</h2>
-<p>
-  We would love you to share your photos with us. Please include the hashtag
-  <strong>#spishakthomaspromise</strong>
-</p>
-
 <p>
   All festivities will take place at the Evergreen Lodge where accommodations are
   available.
@@ -124,6 +118,12 @@ top(Page::WEDDING);
 
 <p>
   Steve Geluso
+</p>
+
+<h2 class="oh-snap">Oh snap!</h2>
+<p>
+  We would love you to share your photos with us. Please include the hashtag
+  <strong>#spishakthomaspromise</strong>
 </p>
 
 <?php
