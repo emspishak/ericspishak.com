@@ -98,4 +98,12 @@ function footer($icon1, $icon2, $icon3) {
 </html>
   <?php
 }
+
+function divider() {
+  ?>
+<p>
+  ..........
+</p>
+  <?php
+}
 ?>

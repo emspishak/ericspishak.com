@@ -79,9 +79,9 @@ top(Page::ACCOMMODATIONS);
   bathhouse.</em>
 </p>
 
-<p>
-  ..........
-</p>
+<?php
+divider();
+?>
 
 <p>
   We understand weddings can add up and highly encourage everyone to

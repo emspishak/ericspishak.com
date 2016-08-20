@@ -82,6 +82,11 @@ top(Page::TRAVEL);
       Please keep in mind that you may not have cell service the whole drive so
       plan ahead with directions.
     </p>
+
+    <?php
+    divider();
+    ?>
+
     <p>
       We invite you to download this
       <a href="https://open.spotify.com/user/1229506932/playlist/7etoe2uti2u5wmLavStccJ" target="_blank">Spotify playlist</a>
