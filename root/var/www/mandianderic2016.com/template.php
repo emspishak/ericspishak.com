@@ -3,6 +3,7 @@ abstract class Page {
   const HOME = "Home";
   const STORY = "Story";
   const WEDDING = "Wedding";
+  const ADVENTURES = "Adventures";
   const PHOTOS = "Photos";
   const REGISTRY = "Registry";
   const ACCOMMODATIONS = "Accommodations";
@@ -50,6 +51,7 @@ function top($page) {
             page_link(Page::HOME, $page);
             page_link(Page::STORY, $page);
             page_link(Page::WEDDING, $page);
+            page_link(Page::ADVENTURES, $page);
             page_link(Page::PHOTOS, $page);
             page_link(Page::ACCOMMODATIONS, $page);
             page_link(Page::TRAVEL, $page);

@@ -67,63 +67,6 @@ top(Page::WEDDING);
   <strong>#spishakthomaspromise</strong>
 </p>
 
-<h2>Suggested Activities</h2>
-<p>
-  Let's go on an adventure!
-</p>
-
-<h3>Hikes</h3>
-<h4>
-  Vernal Fall and Nevada Fall Trails - 1.6 to 5.4 miles round trip (1 to 6
-  hours), 1 hour drive
-</h4>
-<p>
-  Climb along nature's "giant staircase," where you are rewarded with close-up
-  views of two waterfalls and numerous geologic features (depending on how far
-  you choose to hike). Powerful and turbulent, these two waterfalls will soak you
-  in spring and entice you year-round.
-</p>
-
-<h4>
-  Tuolumne Grove of Giant Sequoias - 2.5 miles round trip (2 hours), 30 minute
-  drive
-</h4>
-<p>
-  Explore a couple dozen mature Giant Sequoias, including one you can walk
-  through.
-</p>
-
-<h4>
-  Lembert Dome - 2.8 miles round trip (3 hours), 1.5 hour drive
-</h4>
-<p>
-  Head up to the top of Lembert Dome for a spectacular view of Tuolumne Meadows
-  and surrounding peaks.
-</p>
-
-<h4>
-  Wapama Falls - 5 miles round trip (3 hours), 20 minute drive
-</h4>
-<p>
-  Wapama Fall is reached via a hike that follows the shoreline of the reservoir
-  with moderate up and downhill hiking. The trail includes spectacular views of
-  Tueeulala and Wapama Falls.
-</p>
-
-<h3>Spa</h3>
-<p>
-  The Evergreen Lodge has even more to offer with numerous spa treatments offered
-  in a peaceful massage cabana. Pamper yourself and book a treatment at the
-  activity desk!
-</p>
-
-<h3>Sports</h3>
-<p>
-  Take a dip in the salt water pool, test your skills on the bocce court, rent
-  bikes to explore on two wheels, or book a rafting, climbing, or Yosemite Valley
-  tour.
-</p>
-
 <p>
   All festivities will take place at the Evergreen Lodge where accommodations are
   available.
