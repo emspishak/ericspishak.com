@@ -93,9 +93,9 @@ top(Page::TRAVEL);
       for your drive to Yosemite, courtesy of Ms. Julia Paleski, music
       extraordinaire. This way, we can pretend we're all on a road trip together!
     </p>
-    <p>
-      Need a pit stop? Say no more.
-    </p>
+
+    <h3>Need a pit stop? Say no more.</h3>
+
     <p>
       <strong>Iron Door Saloon, Groveland:</strong> You've almost made it to your
       Evergreen Lodge turnout, but need to use the restroom or grab a beer? Look
