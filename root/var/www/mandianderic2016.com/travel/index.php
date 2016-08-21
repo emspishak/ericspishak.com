@@ -96,17 +96,19 @@ top(Page::TRAVEL);
 
     <h3>Need a pit stop? Say no more.</h3>
 
+    <h4>Iron Door Saloon, Groveland</h4>
     <p>
-      <strong>Iron Door Saloon, Groveland:</strong> You've almost made it to your
+      You've almost made it to your
       Evergreen Lodge turnout, but need to use the restroom or grab a beer? Look
       no further than the Iron Door Saloon. Opened in 1852 as The Granite Store,
       this place is packed with history, live music, and burgers.
     </p>
+
+    <h4>
+      In-N-Out, various locations en route to Yosemite including Pleasanton,
+      Livermore, Tracy, Manteca
+    </h4>
     <p>
-      <strong>
-        In-N-Out, various locations en route to Yosemite include: Pleasanton,
-        Livermore, Tracy, Manteca:
-      </strong>
       Not from California (or Texas, Arizona, Oregon, Nevada)? Enjoy what is
       arguably the best of its kind, yes, it's better than Dick's. Don't eat
       meat? No problem! Consider ordering a Mandi &amp; Eric classic, the grilled
@@ -118,20 +120,26 @@ top(Page::TRAVEL);
         these locations for you.
       </em>
     </p>
+
+    <h4>Hula's, Escalon</h4>
     <p>
-      <strong>Hula's, Escalon:</strong> Do you love soft serve ice cream? In the
+      Do you love soft serve ice cream? In the
       mood for a juicy burger and some sweet potato fries or onion rings? You may
       be skeptical when you roll up to the strip mall, but trust us, this place
       is worth the stop!
     </p>
+
+    <h4>Docs Q N Pit Stop, Modesto</h4>
     <p>
-      <strong>Docs Q N Pit Stop, Modesto:</strong> This soul food has soul. In
+      This soul food has soul. In
       the mood for some hearty meat and aren't a vegetarian like Eric and Mandi
       are? Are you really just in it for the sides of mac and cheese and black
       eyed peas? Look no further.
     </p>
+
+    <h4>June Bug Cafe, Midpines</h4>
     <p>
-      <strong>June Bug Cafe, Midpines</strong>: Looking for vegetarian or vegan
+      Looking for vegetarian or vegan
       fare? Try the heirloom tomatoes, mediterranean plate, or veggie spinach
       wrap for a healthy option on your drive.
     </p>
