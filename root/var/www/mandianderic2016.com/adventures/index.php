@@ -58,6 +58,14 @@ top(Page::ADVENTURES);
   tour.
 </p>
 
+<h2>Libations</h2>
+<p>
+  In need of some nourishment between wedding events? Stop by the main lodge for
+  breakfast, lunch and dinner; or grab something for the road from the general
+  store. Still hungry? Relax by the pool with snacks and beverages from the pool
+  bar.
+</p>
+
 <?php
 footer(FooterIcon::BINOCULARS, FooterIcon::LANTERN, FooterIcon::SIGN);
 ?>
