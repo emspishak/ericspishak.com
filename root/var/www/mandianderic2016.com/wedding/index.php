@@ -25,7 +25,10 @@ top(Page::WEDDING);
   Coyote Hill 5:30pm-9:00pm
 </p>
 <p>
-  <em>Campfire and s'mores included</em>
+  <em>Campfire attire</em>
+</p>
+<p>
+  <em>S'mores included</em>
 </p>
 
 <h2>Saturday</h2>
@@ -33,6 +36,12 @@ top(Page::WEDDING);
   All guests encouraged to spend the morning relaxing by the pool, sleeping in,
   or exploring the beautiful Hetch Hetchy or Yosemite Valleys. We love to see you
   having fun, but please be back and ready for the ceremony promptly at 3:30pm.
+</p>
+
+<p>
+  We expect the temperatures to be in the 80s during the day, but they may drop
+  as low as the 40s in the evening so please remember to bring a jacket or a
+  sweater!
 </p>
 
 <h3>Wedding Ceremony, Dinner &amp; Dancing</h3>
@@ -43,6 +52,9 @@ top(Page::WEDDING);
   <em>Ceremony at the meadow, see ceremony trailhead</em>
 </p>
 <p>
+  <em>Coat, tie and dancing shoes</em>
+</p>
+<p>
   <em>Parade to the reception to follow</em>
 </p>
 
@@ -50,15 +62,15 @@ top(Page::WEDDING);
 <p>
   The Tavern 10:00pm-2:00am
 </p>
-<p>
-  <em>Dancing shoes required</em>
-</p>
 
 <h2>Sunday</h2>
 
 <h3>Farewell Brunch</h3>
 <p>
   Main Lodge Patio 8:30am-11:00am
+</p>
+<p>
+  <em>Casual attire</em>
 </p>
 
 <p>
