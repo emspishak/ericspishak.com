@@ -1,16 +1,15 @@
 #!/bin/bash
 
-LETS_ENCRYPT_PATH=${LETS_ENCRYPT_PATH:-/home/espishak/letsencrypt}
+CERTBOT_PATH=${CERTBOT_PATH:-/home/espishak/}
 
 renew () {
     domain=$1
-    $LETS_ENCRYPT_PATH/letsencrypt-auto \
+    $CERTBOT_PATH/certbot-auto \
         certonly \
-        -a webroot \
+        --webroot \
         --webroot-path /var/www/$domain \
-        -d $domain \
-        -d www.$domain \
-        --server https://acme-v01.api.letsencrypt.org/directory
+        --domain $domain \
+        --domain www.$domain
 }
 
 renew "ericspishak.com"
