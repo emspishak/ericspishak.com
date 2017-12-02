@@ -5,7 +5,7 @@ server {
 }
 
 server {
-    listen 443 ssl spdy;
+    listen 443 ssl http2;
     server_name www.mandianderic2016.com;
     return 301 https://mandianderic2016.com$request_uri;
     add_header Strict-Transport-Security "max-age=31536000; includeSubdomains";
@@ -14,7 +14,7 @@ server {
 }
 
 server {
-    listen 443 ssl spdy;
+    listen 443 ssl http2;
     server_name mandianderic2016.com;
     index index.html index.php;
     root /var/www/mandianderic2016.com;

@@ -5,7 +5,7 @@ server {
 }
 
 server {
-    listen 443 ssl spdy;
+    listen 443 ssl http2;
     server_name www.mandithomas.com;
     return 301 https://mandithomas.com$request_uri;
     add_header Strict-Transport-Security "max-age=31536000; includeSubdomains";
@@ -14,7 +14,7 @@ server {
 }
 
 server {
-    listen 443 ssl spdy;
+    listen 443 ssl http2;
     server_name mandithomas.com;
     index index.html index.php;
     root /var/www/mandithomas.com;
