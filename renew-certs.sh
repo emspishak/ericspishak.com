@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CERTBOT_PATH=${CERTBOT_PATH:-/home/espishak/}
+CERTBOT_PATH=${CERTBOT_PATH:-/home/espishak}
 
 renew () {
     domain=$1
