@@ -30,3 +30,13 @@ server {
         include fastcgi.conf;
     }
 }
+
+server {
+    listen 443 ssl http2;
+    server_name mta-sts.ericspishak.com;
+    root /var/www/mta-sts.ericspishak.com;
+    charset utf-8;
+    add_header Strict-Transport-Security "max-age=31536000; includeSubdomains";
+
+    include /etc/nginx/ssl-conf/ericspishak.com-ssl.conf;
+}
