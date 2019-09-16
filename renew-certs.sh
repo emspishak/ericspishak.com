@@ -22,3 +22,4 @@ renew () {
 renew "ericspishak.com" "mta-sts.ericspishak.com"
 renew "mandithomas.com"
 renew "mandianderic2016.com"
+renew "aspishakthomas.com"
