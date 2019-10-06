@@ -5,7 +5,10 @@ top();
 <h2>Bio and CV</h2>
 
 <a href="AmandaSpishakThomas-headshot.jpg">
-  <img src="AmandaSpishakThomas-headshot-small.jpg" class="headshot" />
+  <img
+      src="AmandaSpishakThomas-headshot-small.jpg"
+      class="headshot"
+      alt="Amanda Spishak-Thomas headshot" />
 </a>
 
 <div>
