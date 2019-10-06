@@ -5,11 +5,15 @@
 WEDDING="var/www/mandianderic2016.com"
 WEDDING_WORKING="root/$WEDDING"
 
-rsync -r --exclude=*~ --exclude=$WEDDING --inplace root/* /
+MANDI="var/www/aspishakthomas.com"
+MANDI_WORKING="root/$MANDI"
+
+rsync -r --exclude=*~ --exclude=$WEDDING --exclude=$MANDI --inplace root/* /
 rsync -r --exclude=*~ --exclude=*.php --inplace $WEDDING_WORKING/* /$WEDDING
+rsync -r --exclude=*~ --exclude=*.php --inplace $MANDI_WORKING/* /$MANDI
 
 pushd root
-PHPS=`find $WEDDING -name "*.php"`
+PHPS=`find $WEDDING $MANDI -name "*.php"`
 for PHP in $PHPS; do
     if [ $(basename $PHP) = "template.php" ]; then
         continue

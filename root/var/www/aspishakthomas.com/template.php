@@ -1,3 +1,6 @@
+<?php
+function top() {
+  ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -16,5 +19,20 @@
   </head>
   <body>
     <h1>Amanda Spishak-Thomas</h1>
+    <h2>health policy researcher. doctoral student. social worker.</h2>
+    <div>
+      <a href="/">Home</a>
+      <a href="/bio/">Bio and CV</a>
+      <a href="/research/">Research</a>
+      <a href="/contact/">Contact</a>
+    </div>
+  <?php
+}
+
+function bottom() {
+  ?>
   </body>
 </html>
+  <?php
+}
+?>
