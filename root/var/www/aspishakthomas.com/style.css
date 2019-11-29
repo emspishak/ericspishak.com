@@ -1,3 +1,29 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.nav {
+    margin: 1rem 0;
+}
+
+.nav-item {
+    font-variant: small-caps;
+    margin-right: 1rem;
+}
+
+.nav-item:link,
+.nav-item:visited,
+.nav-item:active {
+    color: #808080;
+    text-decoration: none;
+}
+
+.nav-item:hover,
+.nav-item.active {
+    border-bottom: 2px solid;
+    color: black;
+}
+
 .headshot {
     max-width: 750px;
     width: 100%;

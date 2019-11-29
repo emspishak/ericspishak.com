@@ -1,6 +1,6 @@
 <?php
 include_once("template.php");
-top();
+top(Page::HOME);
 ?>
 <div>
   Amanda Spishak-Thomas

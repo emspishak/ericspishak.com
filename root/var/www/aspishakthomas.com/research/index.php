@@ -1,6 +1,6 @@
 <?php
 include_once(__DIR__ . "/../template.php");
-top();
+top(Page::RESEARCH);
 ?>
 <h2>Research</h2>
 

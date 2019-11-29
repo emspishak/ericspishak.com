@@ -1,6 +1,6 @@
 <?php
 include_once(__DIR__ . "/../template.php");
-top();
+top(Page::BIO);
 ?>
 <h2>Bio and CV</h2>
 

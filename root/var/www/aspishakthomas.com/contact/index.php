@@ -1,6 +1,6 @@
 <?php
 include_once(__DIR__ . "/../template.php");
-top();
+top(Page::CONTACT);
 ?>
 <h2>Contact</h2>
 
