@@ -32,6 +32,12 @@ server {
 }
 
 server {
+    listen 80;
+    server_name mta-sts.ericspishak.com;
+    return 301 https://mta-sts.ericspishak.com$request_uri;
+}
+
+server {
     listen 443 ssl http2;
     server_name mta-sts.ericspishak.com;
     root /var/www/mta-sts.ericspishak.com;
