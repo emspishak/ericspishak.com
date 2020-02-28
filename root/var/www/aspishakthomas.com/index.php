@@ -3,7 +3,7 @@ include_once("template.php");
 top(Page::HOME);
 ?>
 <div>
-  Amanda Spishak-Thomas
+  Amanda Spishak-Thomas, LCSW
 </div>
 
 <div>

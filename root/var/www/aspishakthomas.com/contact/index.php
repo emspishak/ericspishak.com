@@ -2,7 +2,7 @@
 include_once(__DIR__ . "/../template.php");
 top(Page::CONTACT);
 ?>
-<h2>Contact</h2>
+<h3>Contact</h3>
 
 <div>
   Email: <a href="mailto:at2829@columbia.edu">at2829@columbia.edu</a>

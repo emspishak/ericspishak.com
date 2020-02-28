@@ -1,8 +1,29 @@
 body {
-    font-family: 'Nunito', sans-serif;
+    background-color: #f6efee;
+    font-family: 'Karma', sans-serif;
+}
+
+h1 {
+    float: left;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+h2 {
+    clear: both;
+}
+
+h3 {
+    color: #cb4e45;
+    font-size: 1.5em;
+}
+
+a {
+    color: black;
 }
 
 .nav {
+    float: right;
     margin: 1rem 0;
 }
 
@@ -25,6 +46,6 @@ body {
 }
 
 .headshot {
-    max-width: 750px;
+    max-width: 600px;
     width: 100%;
 }

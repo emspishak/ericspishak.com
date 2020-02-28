@@ -2,8 +2,6 @@
 include_once(__DIR__ . "/../template.php");
 top(Page::BIO);
 ?>
-<h2>Bio and CV</h2>
-
 <a href="AmandaSpishakThomas-headshot.jpg">
   <img
       src="AmandaSpishakThomas-headshot-small.jpg"
@@ -13,12 +11,11 @@ top(Page::BIO);
 
 <div>
   Mandi Spishak-Thomas (she/her) is a doctoral student at Columbia University's
-  School of Social Work and researcher in the Columbia Population Research
-  Center. Her research interests focus broadly on health policy and poverty.
-</div>
-<div>
-  Prior to beginning her doctoral studies, she worked as a Licensed Clinical
-  Social Worker at the Veterans Affairs Medical Center and Alzheimer's
+  <a href="https://socialwork.columbia.edu">School of Social Work</a> and
+  researcher in the <a href="https://cprc.columbia.edu">Columbia Population
+  Research Center</a>. Her research interests focus broadly on health policy and
+  poverty. Prior to beginning her doctoral studies, she worked as a Licensed
+  Clinical Social Worker at the Veterans Affairs Medical Center and Alzheimer's
   Association in San Francisco, California and received a master's degree in
   Social Work from Columbia University. A Southern California native and
   baseball enthusiast, Mandi enjoys hiking, biking, and running in her free
