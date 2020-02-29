@@ -13,21 +13,34 @@ top(Page::BIO);
   Mandi Spishak-Thomas (she/her) is a doctoral student at Columbia University's
   <a href="https://socialwork.columbia.edu">School of Social Work</a> and
   researcher in the <a href="https://cprc.columbia.edu">Columbia Population
-  Research Center</a>. Her research interests focus broadly on health policy and
-  poverty. Prior to beginning her doctoral studies, she worked as a Licensed
-  Clinical Social Worker at the Veterans Affairs Medical Center and Alzheimer's
+  Research Center</a>. Her research interests focus broadly on health policy,
+  behavioral health, and poverty.
+</div>
+
+<div>
+  With interests in health policy and extensive clinical social work experience,
+  Mandi has continuously sought out advocacy opportunities and ways to remain
+  engaged in the community. Mandi participated in political boot camp training
+  sponsored by the Congressional Research Institute for Social Work and Policy
+  and is an active member of the Planned Parenthood Advocacy Collective focusing
+  on political action in the women's health sphere.
+</div>
+
+<div>
+  Prior to beginning her doctoral studies, she worked as a licensed clinical
+  social worker at the Veterans Affairs Medical Center and Alzheimer's
   Association in San Francisco, California and received a master's degree in
-  Social Work from Columbia University. A Southern California native and
-  baseball enthusiast, Mandi enjoys hiking, biking, and running in her free
+  Social Work from Columbia University. A Southern California native and baseball
+  enthusiast (Go Mets!), Mandi enjoys hiking, biking, and running in her free
   time.
 </div>
 
 <h3>Education</h3>
 <dl>
-  <dt>Columbia University</dt>
-  <dd>Ph.D. Social Work (Expected 2023)</dd>
+  <dt>Columbia University - New York, NY</dt>
+  <dd>Ph.D. Social Work (Expected 2022)</dd>
 
-  <dt>Columbia University</dt>
+  <dt>Columbia University - New York, NY</dt>
   <dd>M.S.S.W. (2013)</dd>
 
   <dt>Seattle University - Seattle, WA</dt>
