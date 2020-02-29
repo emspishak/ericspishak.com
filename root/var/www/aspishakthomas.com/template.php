@@ -77,9 +77,7 @@ function page_link($link, $current_page) {
   ?>
   <a href="<?= Page::getUrl($link); ?>"
      class="<?= implode(" ", $classes) ?>"
-    >
-      <?= Page::getTitle($link); ?>
-  </a>
+    ><?= Page::getTitle($link); ?></a>
   <?php
 }
 
