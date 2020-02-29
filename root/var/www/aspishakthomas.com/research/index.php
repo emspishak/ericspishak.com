@@ -37,16 +37,16 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
-    Price E., Garg M., <strong>Spishak-Thomas A.</strong>, Crevensten H., Ranji,
-    S. "Doctor, Your Patient Wants to Leave": Navigating Elopement Risk in
-    Patients Who Lack Decision Making Capacity. Workshop at Society of Hospital
-    Medicine National Meeting, Orlando, FL, 2018.
-  </li>
-  <li>
     Allen, H., Zhang, Y., Eliason, E., <strong>Spishak-Thomas, A.</strong>,
     Frankel, C. Adverse Childhood Experiences and their Relationship with
     Depression among Adults in a Low-Income Uninsured Population. Society for
     Social Work and Research, Washington, D.C., 2020.
+  </li>
+  <li>
+    Price E., Garg M., <strong>Spishak-Thomas A.</strong>, Crevensten H., Ranji,
+    S. "Doctor, Your Patient Wants to Leave": Navigating Elopement Risk in
+    Patients Who Lack Decision Making Capacity. Workshop at Society of Hospital
+    Medicine National Meeting, Orlando, FL, 2018.
   </li>
 </ul>
 <?php
