@@ -49,3 +49,11 @@ a {
     max-width: 600px;
     width: 100%;
 }
+
+#contact {
+    text-align: center;
+}
+
+#contact div {
+    margin: 1em;
+}
