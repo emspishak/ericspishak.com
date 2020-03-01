@@ -56,16 +56,21 @@ function top($page) {
     <link href="https://fonts.googleapis.com/css?family=Karma:400,700&display=swap" rel="stylesheet">
   </head>
   <body>
-    <h1>Amanda Spishak-Thomas</h1>
-    <div class="nav">
-      <?php
-      page_link(Page::HOME, $page);
-      page_link(Page::BIO, $page);
-      page_link(Page::RESEARCH, $page);
-      page_link(Page::CONTACT, $page);
-      ?>
+    <div>
+      <div class="name">
+        <h1>Amanda Spishak-Thomas</h1>
+        <h2>health policy researcher. doctoral student. social worker.</h2>
+      </div>
+      <div class="nav">
+        <?php
+        page_link(Page::HOME, $page);
+        page_link(Page::BIO, $page);
+        page_link(Page::RESEARCH, $page);
+        page_link(Page::CONTACT, $page);
+        ?>
+      </div>
     </div>
-    <h2>health policy researcher. doctoral student. social worker.</h2>
+    <div class="content">
   <?php
 }
 
@@ -83,6 +88,7 @@ function page_link($link, $current_page) {
 
 function bottom() {
   ?>
+    </div>
   </body>
 </html>
   <?php

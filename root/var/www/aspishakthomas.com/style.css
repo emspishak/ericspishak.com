@@ -4,13 +4,12 @@ body {
 }
 
 h1 {
-    float: left;
     font-weight: normal;
     margin: 0;
 }
 
 h2 {
-    clear: both;
+    margin: 0;
 }
 
 h3 {
@@ -22,9 +21,12 @@ a {
     color: black;
 }
 
+.name {
+    float: left;
+}
+
 .nav {
     float: right;
-    margin: 1rem 0;
 }
 
 .nav-item {
@@ -43,6 +45,11 @@ a {
 .nav-item.active {
     border-bottom: 2px solid;
     color: black;
+}
+
+.content {
+    clear: both;
+    margin-top: 1em;
 }
 
 .headshot {
@@ -66,4 +73,11 @@ a {
 
 #education {
     clear: both;
+}
+
+@media (max-width: 950px) {
+    .nav {
+        clear: both;
+        float: none;
+     }
 }
