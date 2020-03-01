@@ -5,25 +5,25 @@ top(Page::CONTACT);
 <div id="contact">
   <h3>Contact</h3>
 
-  <div>
+  <p>
     Email: <a href="mailto:at2829@columbia.edu">at2829@columbia.edu</a>
-  </div>
+  </p>
 
-  <div>
+  <p>
     Twitter: <a href="https://twitter.com/m_spishakthomas">@m_spishakthomas</a>
-  </div>
+  </p>
 
-  <div>
+  <p>
     Pronouns: She, her
-  </div>
+  </p>
 
-  <div>
+  <p>
     Office Address:<br>
     Columbia Population Research Center<br>
     Columbia University School of Social Work<br>
     1255 Amsterdam Avenue, 7th Floor<br>
     New York, NY 10027
-  </div>
+  </p>
 </div>
 <?php
 bottom();
