@@ -56,7 +56,7 @@ function top($page) {
     <link href="https://fonts.googleapis.com/css?family=Karma:400,700&display=swap" rel="stylesheet">
   </head>
   <body>
-    <div>
+    <div class="header">
       <div class="name">
         <h1>Amanda Spishak-Thomas</h1>
         <h2>health policy researcher. doctoral student. social worker.</h2>
