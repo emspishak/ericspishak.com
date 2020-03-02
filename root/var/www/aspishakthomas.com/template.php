@@ -58,7 +58,7 @@ function top($page) {
   <body>
     <div class="header">
       <div class="name">
-        <h1>Amanda Spishak-Thomas</h1>
+        <h1>Amanda Spishak&#8209;Thomas</h1>
         <h2>health policy researcher. doctoral student. social worker.</h2>
       </div>
       <div class="nav">
