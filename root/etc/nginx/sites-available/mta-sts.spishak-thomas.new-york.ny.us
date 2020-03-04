@@ -1,0 +1,9 @@
+server {
+    listen 443 ssl http2;
+    server_name mta-sts.spishak-thomas.new-york.ny.us;
+    root /var/www/mta-sts.spishak-thomas.new-york.ny.us;
+    charset utf-8;
+    add_header Strict-Transport-Security "max-age=31536000; includeSubdomains";
+
+    include /etc/nginx/ssl-conf/mta-sts.spishak-thomas.new-york.ny.us-ssl.conf;
+}
