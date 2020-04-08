@@ -13,12 +13,8 @@ top(Page::RESEARCH);
   <li>
     <strong>Spishak-Thomas, A.</strong>, Slopen, M. "Making Work Pay (the Rent):
     Does the Earned Income Tax Credit Affect Housing Mobility among Low Income
-    Workers"</li>
-  <li>
-    Allen, H., <strong>Spishak-Thomas, A.</strong> "Can Reducing Poverty Also
-    Improve the Health and Well-Being of Low-Income Americans? Experimental
-    Evidence from the Paycheck Plus Demonstration Project"
-    </li>
+    Workers"
+  </li>
 </ul>
 
 <h3>Works in Progress</h3>
@@ -28,6 +24,11 @@ top(Page::RESEARCH);
     Kaplan, D., Silverstone, B., Chan, K., <strong>Spishak-Thomas, A.</strong>
     "Supervisory Leaders in Aging: One-Year Practice Change Outcomes of
     Innovative Training Program"
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Aivadyan, C. "'So many disincentives to
+    take care of ourselves': A Photovoice study on graduate student workers'
+    health care experiences"
   </li>
 </ul>
 
