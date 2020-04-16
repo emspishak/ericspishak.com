@@ -2,7 +2,7 @@
 include_once(__DIR__ . "/../template.php");
 top(Page::RESEARCH);
 ?>
-<h3>Working Papers</h3>
+<h3>Under Review</h3>
 
 <ul>
   <li>
@@ -10,6 +10,11 @@ top(Page::RESEARCH);
     Frankel, C. "Adverse Childhood Experiences and their Relationship with
     Depression among Adults in a Low-Income Uninsured Population"
   </li>
+</ul>
+
+<h3>Working Papers</h3>
+
+<ul>
   <li>
     <strong>Spishak-Thomas, A.</strong>, Slopen, M. "Making Work Pay (the Rent):
     Does the Earned Income Tax Credit Affect Housing Mobility among Low Income
@@ -31,8 +36,6 @@ top(Page::RESEARCH);
     health care experiences"
   </li>
 </ul>
-
-<h3>Peer-Reviewed Publications</h3>
 
 <h3>Presentations</h3>
 
