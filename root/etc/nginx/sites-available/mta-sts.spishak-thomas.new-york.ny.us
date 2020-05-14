@@ -1,4 +1,10 @@
 server {
+    listen 80;
+    server_name mta-sts.spishak-thomas.new-york.ny.us;
+    return 301 https://mta-sts.spishak-thomas.new-york.ny.us$request_uri;
+}
+
+server {
     listen 443 ssl http2;
     server_name mta-sts.spishak-thomas.new-york.ny.us;
     root /var/www/mta-sts.spishak-thomas.new-york.ny.us;
