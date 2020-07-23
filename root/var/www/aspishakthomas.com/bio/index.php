@@ -6,7 +6,7 @@ top(Page::BIO);
   <div class="col" id="bio">
     <h3>About Me</h3>
     <p>
-      Mandi Spishak-Thomas (she/her) is a doctoral student at Columbia University's
+      Mandi Spishak-Thomas (she/her) is a doctoral candidate at Columbia University's
       <a href="https://socialwork.columbia.edu">School of Social Work</a> and
       researcher in the <a href="https://cprc.columbia.edu">Columbia Population
       Research Center</a>. Her research interests focus broadly on health policy,
