@@ -4,19 +4,19 @@ top(Page::HOME);
 ?>
 
 <div id="quotebox">
-  <p id="quote">
-    Amanda "Mandi" Spishak-Thomas is a skilled social policy researcher and
-    licensed clinical social worker with a passion for women's health, behavioral
-    health, income equality, Veterans benefits, and healthcare reform.
+  <p>
+    Amanda "Mandi" Spishak-Thomas is a licensed clinical social worker and a
+    social policy analysis and economics PhD candidate at Columbia University
+    School of Social Work researching reproductive health, health care access,
+    aging, and social policy.
   </p>
 
-  <div>
-    PhD Candidate, Social Policy Analysis &amp; Economics
-  </div>
-
-  <div>
-    Columbia University School of Social Work
-  </div>
+  <p>
+    Mandi's work is rooted in advocacy and community-based approaches that are
+    guided by direct experience working with diverse communities and individuals
+    to reduce health disparities and increase access to quality health and
+    behavioral health care.
+  </p>
 </div>
 <?php
 bottom();
