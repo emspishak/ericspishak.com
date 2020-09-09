@@ -6,20 +6,29 @@ top(Page::BIO);
   <div class="col" id="bio">
     <h3>About Me</h3>
     <p>
-      Mandi Spishak-Thomas (she/her) is a doctoral candidate at Columbia University's
-      <a href="https://socialwork.columbia.edu">School of Social Work</a> and
-      researcher in the <a href="https://cprc.columbia.edu">Columbia Population
-      Research Center</a>. Her research interests focus broadly on health policy,
-      behavioral health, and poverty.
+      Mandi Spishak-Thomas (she/her) is a doctoral candidate at Columbia
+      University's <a href="https://socialwork.columbia.edu">School of Social
+      Work</a> and researcher in the <a href="https://cprc.columbia.edu">Columbia
+      Population Research Center</a>. Mandi studies the implications of social
+      policies for women throughout the life course, including reproductive
+      health access, maternal health, and menopause, as well as the effects of
+      anti-poverty policies on health and financial well-being.
     </p>
 
     <p>
-      With interests in health policy and extensive clinical social work experience,
-      Mandi has continuously sought out advocacy opportunities and ways to remain
-      engaged in the community. Mandi participated in political boot camp training
-      sponsored by the Congressional Research Institute for Social Work and Policy
-      and is an active member of the Planned Parenthood Advocacy Collective focusing
-      on political action in the women's health sphere.
+      With a passion for health care advocacy and extensive clinical social work
+      experience, Mandi has continuously sought out opportunities to remain
+      engaged in the community. She participated in a week-long political boot
+      camp training sponsored by the <a href="https://www.crispinc.org/">
+      Congressional Research Institute for Social Work and Policy (CRISP)</a>
+      where she learned to bridge the gap between research and policy. Mandi
+      facilitates a monthly caregiver support group through the
+      <a href="https://www.alz.org/">Alzheimer's Association</a> and is an active
+      member of the
+      <a href="https://www.plannedparenthood.org/planned-parenthood-greater-new-york">
+      Planned Parenthood of Greater New York (PPGNY)</a> Advocacy Collective
+      spending monthly meetings organizing political actions and outreach to
+      government officials in support of reproductive rights.
     </p>
 
     <p>
