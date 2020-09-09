@@ -4,6 +4,7 @@ abstract class Page {
     const BIO = 1;
     const RESEARCH = 2;
     const CONTACT = 3;
+    const TEACHING = 4;
 
     public static function getTitle($page) {
         switch ($page) {
@@ -15,6 +16,8 @@ abstract class Page {
             return "Research";
         case Page::CONTACT:
             return "Contact";
+        case Page::TEACHING:
+            return "Teaching";
         default:
             throw new Exception("bad Page: " . $page);
         }
@@ -30,6 +33,8 @@ abstract class Page {
             return "/research/";
         case Page::CONTACT:
             return "/contact/";
+        case Page::TEACHING:
+            return "/teaching/";
         default:
             throw new Exception("bad Page: " . $page);
         }
@@ -66,6 +71,7 @@ function top($page) {
         page_link(Page::HOME, $page);
         page_link(Page::BIO, $page);
         page_link(Page::RESEARCH, $page);
+        page_link(Page::TEACHING, $page);
         page_link(Page::CONTACT, $page);
         ?>
       </div>
