@@ -34,6 +34,7 @@ a {
 }
 
 .nav-item {
+    border-bottom: 2px solid transparent;
     float: left;
     font-size: 1.2rem;
     font-variant: small-caps;
@@ -49,7 +50,7 @@ a {
 
 .nav-item:hover,
 .nav-item.active {
-    border-bottom: 2px solid;
+    border-bottom-color: black;
     color: black;
 }
 
