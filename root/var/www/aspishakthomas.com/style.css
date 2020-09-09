@@ -34,6 +34,7 @@ a {
 }
 
 .nav-item {
+    font-size: 1.2rem;
     font-variant: small-caps;
     margin-right: 1rem;
 }
@@ -98,7 +99,7 @@ a {
     clear: both;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 1100px) {
     .nav {
         clear: both;
         float: none;
