@@ -22,14 +22,6 @@ top(Page::TEACHING);
       Health Systems
     </div>
   </li>
-  <li>
-    <div>
-      06/2019 – 08/2019: Columbia University Irving Medical Center
-    </div>
-    <div>
-      Senior Teaching Mentor – Summer Health Profession Education Program (SHPEP)
-    </div>
-  </li>
 </ul>
 
 <h3>Teaching Associate</h3>
@@ -62,6 +54,19 @@ top(Page::TEACHING);
     </div>
     <div>
       Teaching Assistant – Seminar on Policy Practice II
+    </div>
+  </li>
+</ul>
+
+<h3>Teaching Fellowships</h3>
+
+<ul>
+  <li>
+    <div>
+      06/2019 – 08/2019: Columbia University Irving Medical Center
+    </div>
+    <div>
+      Senior Teaching Mentor – Summer Health Profession Education Program (SHPEP)
     </div>
   </li>
 </ul>

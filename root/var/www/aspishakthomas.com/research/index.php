@@ -10,6 +10,11 @@ top(Page::RESEARCH);
     Frankel, C. "Adverse Childhood Experiences and their Relationship with
     Depression among Adults in a Low-Income Uninsured Population"
   </li>
+  <li>
+    Eliason, E., <strong>Spishak-Thomas, A.</strong> "Association Between
+    Affordable Care Act Medicaid Expansions and Breastfeeding Among Low-Income
+    Women"
+  </li>
 </ul>
 
 <h3>Working Papers</h3>
@@ -24,11 +29,6 @@ top(Page::RESEARCH);
     Kaplan, D., Silverstone, B., Chan, K., <strong>Spishak-Thomas, A.</strong>
     "NASW's Supervisory Leaders in Aging: One-year Practice Change Outcomes of an
     Innovative Training Program for Social Work Supervisors"
-  </li>
-  <li>
-    Eliason, E., <strong>Spishak-Thomas, A.</strong> "Association Between
-    Affordable Care Act Medicaid Expansions and Breastfeeding Among Low-Income
-    Women"
   </li>
 </ul>
 
