@@ -7,10 +7,28 @@ top(Page::TEACHING);
 <ul>
   <li>
     <div>
+      11/2020: Columbia University School of Social Work
+    </div>
+    <div>
+      Guest Lecturer – Social Welfare Policy, "U.S. Health Policy"
+    </div>
+  </li>
+  <li>
+    <div>
+      11/2020: Columbia University School of Social Work
+    </div>
+    <div>
+      Guest Lecturer – Human Behavior in the Social Environment, "Social Ties,
+      Social Support, and Behavior"
+    </div>
+  </li>
+  <li>
+    <div>
       06/2020: Columbia University School of Social Work
     </div>
     <div>
-      Guest Lecturer – Program Evaluation in Social Services
+      Guest Lecturer – Program Evaluation in Social Services, "Dissemination and
+      Sustainability"
     </div>
   </li>
   <li>
@@ -19,7 +37,7 @@ top(Page::TEACHING);
     </div>
     <div>
       Guest Lecturer – Seminar in Social Welfare Policy II: Health and Mental
-      Health Systems
+      Health Systems, "Health Policy Advocacy and Political Social Work"
     </div>
   </li>
 </ul>
