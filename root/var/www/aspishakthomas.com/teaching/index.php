@@ -2,6 +2,20 @@
 include_once(__DIR__ . "/../template.php");
 top(Page::TEACHING);
 ?>
+<h3>Instructor of Record</h3>
+
+<ul>
+  <li>
+    <div>
+      05/2021 - 07/2021: Columbia School of Social Work
+    </div>
+    <div>
+      Instructor of Record - Advocacy: Decolonizing Mezzo- and Macro-practice
+      in Social Work
+    </div>
+  </li>
+</ul>
+
 <h3>Guest Lecturer</h3>
 
 <ul>
@@ -47,7 +61,7 @@ top(Page::TEACHING);
 <ul>
   <li>
     <div>
-      09/2020 – Present: Columbia School of Social Work
+      09/2020 – 12/2020: Columbia School of Social Work
     </div>
     <div>
       Teaching Associate – Human Behavior in the Social Environment
@@ -55,7 +69,7 @@ top(Page::TEACHING);
   </li>
   <li>
     <div>
-      09/2020 – Present: Columbia School of Social Work
+      09/2020 – 12/2020: Columbia School of Social Work
     </div>
     <div>
       Teaching Associate – Social Welfare Policy

@@ -6,11 +6,6 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
-    Allen, H., Zhang, Y., Eliason, E., <strong>Spishak-Thomas, A.</strong>,
-    Frankel, C. "Adverse Childhood Experiences and their Relationship with
-    Depression among Adults in a Low-Income Uninsured Population"
-  </li>
-  <li>
     Eliason, E., <strong>Spishak-Thomas, A.</strong> "Association Between
     Affordable Care Act Medicaid Expansions and Breastfeeding Among Low-Income
     Women"
@@ -26,24 +21,14 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
-    <strong>Spishak-Thomas, A.</strong>, Slopen, M. "Making Work Pay (the Rent):
-    Does the Earned Income Tax Credit Affect Housing Mobility among Low Income
-    Workers"
+    <strong>Spishak-Thomas, A.</strong>, Eliason, E. "Reasons Underlying Family
+    Planning Actions among Women in the Postpartum Period"
   </li>
 </ul>
 
 <h3>Works in Progress</h3>
 
 <ul>
-  <li>
-    <strong>Spishak-Thomas, A.</strong>, Aivadyan, C. "'So many disincentives to
-    take care of ourselves': A Photovoice study on graduate student workers'
-    health care experiences"
-  </li>
-  <li>
-    <strong>Spishak-Thomas, A.</strong>, Eliason, E. "Reasons Underlying Family
-    Planning Actions among Women in the Postpartum Period"
-  </li>
   <li>
     Eliason, E., <strong>Spishak-Thomas, A.</strong> "Association between the
     Affordable Care Act and Postpartum Health"
