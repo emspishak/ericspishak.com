@@ -6,9 +6,9 @@ top(Page::HOME);
 <div id="quotebox">
   <p>
     Amanda "Mandi" Spishak-Thomas is a licensed clinical social worker and a
-    social policy analysis and economics PhD candidate at Columbia University
-    School of Social Work researching reproductive health, health care access,
-    aging, and social policy.
+    social policy analysis and economics PhD candidate at Columbia School of
+    Social Work researching reproductive health, health care access, aging,
+    and social policy.
   </p>
 
   <p>

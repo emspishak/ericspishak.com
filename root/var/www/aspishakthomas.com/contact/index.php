@@ -20,7 +20,7 @@ top(Page::CONTACT);
   <p>
     Office Address:<br>
     Columbia Population Research Center<br>
-    Columbia University School of Social Work<br>
+    Columbia School of Social Work<br>
     1255 Amsterdam Avenue, 7th Floor<br>
     New York, NY 10027
   </p>

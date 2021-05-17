@@ -7,7 +7,7 @@ top(Page::TEACHING);
 <ul>
   <li>
     <div>
-      11/2020: Columbia University School of Social Work
+      11/2020: Columbia School of Social Work
     </div>
     <div>
       Guest Lecturer – Social Welfare Policy, "U.S. Health Policy"
@@ -15,7 +15,7 @@ top(Page::TEACHING);
   </li>
   <li>
     <div>
-      11/2020: Columbia University School of Social Work
+      11/2020: Columbia School of Social Work
     </div>
     <div>
       Guest Lecturer – Human Behavior in the Social Environment, "Social Ties,
@@ -24,7 +24,7 @@ top(Page::TEACHING);
   </li>
   <li>
     <div>
-      06/2020: Columbia University School of Social Work
+      06/2020: Columbia School of Social Work
     </div>
     <div>
       Guest Lecturer – Program Evaluation in Social Services, "Dissemination and
@@ -47,7 +47,7 @@ top(Page::TEACHING);
 <ul>
   <li>
     <div>
-      09/2020 – Present: Columbia University School of Social Work
+      09/2020 – Present: Columbia School of Social Work
     </div>
     <div>
       Teaching Associate – Human Behavior in the Social Environment
@@ -55,7 +55,7 @@ top(Page::TEACHING);
   </li>
   <li>
     <div>
-      09/2020 – Present: Columbia University School of Social Work
+      09/2020 – Present: Columbia School of Social Work
     </div>
     <div>
       Teaching Associate – Social Welfare Policy
@@ -68,7 +68,7 @@ top(Page::TEACHING);
 <ul>
   <li>
     <div>
-      01/2020 – 05/2020: Columbia University School of Social Work
+      01/2020 – 05/2020: Columbia School of Social Work
     </div>
     <div>
       Teaching Assistant – Seminar on Policy Practice II
