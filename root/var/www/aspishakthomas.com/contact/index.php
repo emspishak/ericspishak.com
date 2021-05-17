@@ -6,7 +6,7 @@ top(Page::CONTACT);
   <h3>Contact</h3>
 
   <p>
-    Email: <a href="mailto:at2829@columbia.edu">at2829@columbia.edu</a>
+    Email: at2829 [at] columbia.edu
   </p>
 
   <p>
