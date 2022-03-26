@@ -5,19 +5,22 @@ abstract class Page {
     const RESEARCH = 2;
     const CONTACT = 3;
     const TEACHING = 4;
+    const ORGANIZING = 5;
 
     public static function getTitle($page) {
         switch ($page) {
-        case Page::HOME:
-            return "Home";
-        case Page::BIO:
-            return "Bio and CV";
-        case Page::RESEARCH:
-            return "Research";
-        case Page::CONTACT:
-            return "Contact";
-        case Page::TEACHING:
-            return "Teaching";
+            case Page::HOME:
+                return "Home";
+            case Page::BIO:
+                return "Bio and CV";
+            case Page::RESEARCH:
+                return "Research";
+            case Page::CONTACT:
+                return "Contact";
+            case Page::TEACHING:
+                return "Teaching";
+            case Page::ORGANIZING:
+                return "Organizing";
         default:
             throw new Exception("bad Page: " . $page);
         }
@@ -25,16 +28,18 @@ abstract class Page {
 
     public static function getUrl($page) {
         switch ($page) {
-        case Page::HOME:
-            return "/";
-        case Page::BIO:
-            return "/bio/";
-        case Page::RESEARCH:
-            return "/research/";
-        case Page::CONTACT:
-            return "/contact/";
-        case Page::TEACHING:
-            return "/teaching/";
+            case Page::HOME:
+                return "/";
+            case Page::BIO:
+                return "/bio/";
+            case Page::RESEARCH:
+                return "/research/";
+            case Page::CONTACT:
+                return "/contact/";
+            case Page::TEACHING:
+                return "/teaching/";
+            case Page::ORGANIZING:
+                return "/organizing/";
         default:
             throw new Exception("bad Page: " . $page);
         }
@@ -72,6 +77,7 @@ function top($page) {
         page_link(Page::BIO, $page);
         page_link(Page::RESEARCH, $page);
         page_link(Page::TEACHING, $page);
+        page_link(Page::ORGANIZING, $page);
         page_link(Page::CONTACT, $page);
         ?>
       </div>

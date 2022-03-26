@@ -79,6 +79,11 @@ a {
     width: 100%;
 }
 
+#strike img {
+    max-width: 800px;
+    width: 100%;
+}
+
 #contact {
     text-align: center;
 }
@@ -99,6 +104,10 @@ a {
 
 #education {
     clear: both;
+}
+
+.caption {
+    font-size: .8em;
 }
 
 @media (max-width: 1100px) {
