@@ -57,7 +57,10 @@ top(Page::BIO);
   <h3>Education</h3>
   <dl>
     <dt>Columbia University - New York, NY</dt>
-    <dd>Ph.D. Social Work (Expected 2022)</dd>
+    <dd>Ph.D. Social Work (Expected 2023)</dd>
+
+    <dt>Columbia University - New York, NY</dt>
+    <dd>MPhil (2022)</dd>
 
     <dt>Columbia University - New York, NY</dt>
     <dd>M.S.S.W. (2013)</dd>

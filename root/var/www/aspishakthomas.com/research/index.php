@@ -2,24 +2,30 @@
 include_once(__DIR__ . "/../template.php");
 top(Page::RESEARCH);
 ?>
+<h3>Peer-Reviewed Publications</h3>
+
+<ul>
+  <li>
+    Kaplan, D. B., Silverstone, B., Chan, K., <strong>Spishak-Thomas, A.</strong>
+    (accepted for publication as of Dec. 2021). NASW's Supervisory Leaders in
+    Aging: One-year practice change outcomes of an innovative training program
+    for social work supervisors. <em>Gerontology and Geriatrics Education</em>.
+  </li>
+</ul>
+
 <h3>Under Review</h3>
 
 <ul>
   <li>
-    Kaplan, D., Silverstone, B., Chan, K., <strong>Spishak-Thomas, A.</strong>
-    "NASW's Supervisory Leaders in Aging: One-year Practice Change Outcomes of an
-    Innovative Training Program for Social Work Supervisors"
+    Eliason, E., <strong>Spishak-Thomas, A.</strong>, Steenland, M. "Association
+    of the Affordable Care Act Medicaid Expansions with Postpartum Contraceptive
+    Use and Early Postpartum Pregnancy"
   </li>
 </ul>
 
 <h3>Working Papers</h3>
 
 <ul>
-  <li>
-    Eliason, E., <strong>Spishak-Thomas, A.</strong> "Impacts of the Affordable
-    Care Act Medicaid Expansions on Closely Spaced Pregnancies and Postpartum
-    Contraceptive Use"
-  </li>
   <li>
     <strong>Spishak-Thomas, A.</strong>, Eliason, E. "Reasons Underlying Family
     Planning Actions among Women in the Postpartum Period"
