@@ -6,22 +6,25 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
-    Kaplan, D. B., Silverstone, B., Chan, K., <strong>Spishak-Thomas, A.</strong>
-    (accepted for publication as of Dec. 2021). NASW's Supervisory Leaders in
-    Aging: One-year practice change outcomes of an innovative training program
-    for social work supervisors. <em>Gerontology and Geriatrics Education</em>.
+    Eliason, E., <strong>Spishak-Thomas, A.</strong>, Steenland,
+    M. (accepted for publication as of February 2022). Association of
+    the Affordable Care Act Medicaid Expansions with Postpartum
+    Contraceptive Use and Early Postpartum Pregnancy. <em>Contraception</em>.
+  </li>
+  <li>
+    Kaplan, D. B., Silverstone, B., Chan, K., <strong>Spishak-Thomas, A.</strong>,
+    Herman, C., Zlotnik, J. L.  (2022). NASW's Supervisory Leaders in
+    Aging: One-year practice change outcomes of an innovative training
+    program for social work supervisors. <em>Gerontology and
+    Geriatrics Education</em>. doi:
+    <a href="https://doi.org/10.1080/02701960.2022.2028260">10.1080/02701960.2022.2028260</a>
   </li>
 </ul>
 
-<h3>Under Review</h3>
+<!-- <h3>Under Review</h3>
 
 <ul>
-  <li>
-    Eliason, E., <strong>Spishak-Thomas, A.</strong>, Steenland, M. "Association
-    of the Affordable Care Act Medicaid Expansions with Postpartum Contraceptive
-    Use and Early Postpartum Pregnancy"
-  </li>
-</ul>
+</ul> -->
 
 <h3>Working Papers</h3>
 
@@ -54,7 +57,7 @@ top(Page::RESEARCH);
   </li>
 </ul>
 
-<h3>Presentations</h3>
+<h3>Conferences and Presentations</h3>
 
 <div>
   *presented by coauthor
