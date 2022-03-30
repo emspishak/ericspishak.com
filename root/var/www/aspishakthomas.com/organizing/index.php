@@ -3,8 +3,8 @@ include_once(__DIR__ . "/../template.php");
 top(Page::ORGANIZING);
 ?>
 
-<p>
-  <a href="strike.jpg" id="strike">
+<p id="strike">
+  <a href="strike.jpg">
     <img src="strike_small.jpg" />
   </a>
 </p>
