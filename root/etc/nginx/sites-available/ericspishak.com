@@ -1,11 +1,13 @@
 server {
     listen 80;
+    listen [::]:80;
     server_name ericspishak.com www.ericspishak.com;
     return 301 https://ericspishak.com$request_uri;
 }
 
 server {
     listen 443 ssl http2;
+    listen [::]:443 ssl http2;
     server_name www.ericspishak.com;
     return 301 https://ericspishak.com$request_uri;
     add_header Strict-Transport-Security "max-age=31536000; includeSubdomains";
@@ -15,6 +17,7 @@ server {
 
 server {
     listen 443 ssl http2;
+    listen [::]:443 ssl http2;
     server_name ericspishak.com;
     index index.html index.php;
     root /var/www/ericspishak.com;
