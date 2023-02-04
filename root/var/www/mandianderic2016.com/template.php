@@ -27,19 +27,19 @@ function top($page) {
 <!DOCTYPE html>
 <html>
   <head>
-    <title><?= $page == PAGE::HOME ? "" : $page . " - " ?>Mandi &amp; Eric</title>
-    <link href="/style.css" rel="stylesheet">
-    <link href="//fonts.googleapis.com/css?family=Josefin+Sans%7CPoiret+One%7CAntic+Slab" rel="stylesheet">
-    <meta name=viewport content="width=device-width, initial-scale=1">
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-65602681-1"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-65YK1WD6K5"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'UA-65602681-1');
+      gtag('config', 'G-65YK1WD6K5');
     </script>
+    <title><?= $page == PAGE::HOME ? "" : $page . " - " ?>Mandi &amp; Eric</title>
+    <link href="/style.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Josefin+Sans%7CPoiret+One%7CAntic+Slab" rel="stylesheet">
+    <meta name=viewport content="width=device-width, initial-scale=1">
   </head>
   <body>
     <div class="content">

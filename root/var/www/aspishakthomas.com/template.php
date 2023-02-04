@@ -51,14 +51,14 @@ function top($page) {
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148066551-1"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C5D2MVMPBY"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'UA-148066551-1');
+      gtag('config', 'G-C5D2MVMPBY');
     </script>
     <title><?= $page == PAGE::HOME ? "" : Page::getTitle($page) . " - " ?>Amanda Spishak-Thomas</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
