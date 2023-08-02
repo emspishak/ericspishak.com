@@ -6,7 +6,7 @@ top(Page::CONTACT);
   <h3>Contact</h3>
 
   <p>
-    Email: at2829 [at] columbia.edu
+    Email: amanda.spishak.thomas [at] ifh.rutgers.edu
   </p>
 
   <p>
@@ -19,10 +19,9 @@ top(Page::CONTACT);
 
   <p>
     Office Address:<br>
-    Columbia Population Research Center<br>
-    Columbia School of Social Work<br>
-    1255 Amsterdam Avenue, 7th Floor<br>
-    New York, NY 10027
+    Rutgers Center for State Health Policy<br>
+    112 Paterson Street<br>
+    New Brunswick, NJ 08901
   </p>
 </div>
 <?php

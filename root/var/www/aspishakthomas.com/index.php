@@ -5,17 +5,14 @@ top(Page::HOME);
 
 <div id="quotebox">
   <p>
-    Amanda "Mandi" Spishak-Thomas is a licensed clinical social worker and a
-    social policy analysis and economics PhD candidate at Columbia School of
-    Social Work researching reproductive health, health care access, aging,
-    and social policy.
-  </p>
-
-  <p>
-    Mandi's work is rooted in advocacy and community-based approaches that are
-    guided by direct experience working with diverse communities and individuals
-    to reduce health disparities and increase access to quality health and
-    behavioral health care.
+    Amanda "Mandi" Spishak-Thomas is a Medicaid research scholar at
+    the Rutgers Center for State Health Policy where she researches
+    Medicaid and its impacts on low-income patients and their families
+    in New Jersey. Mandi's research understands health policies as
+    wealth policies, examining how health insurance provides
+    scaffolding for low-income families. Mandi received her PhD from
+    the Columbia School of Social Work and has her license in clinical
+    social work (LCSW) from California.
   </p>
 </div>
 <?php

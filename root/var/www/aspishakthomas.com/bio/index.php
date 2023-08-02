@@ -6,42 +6,64 @@ top(Page::BIO);
   <div class="col" id="bio">
     <h3>About Me</h3>
     <p>
-      Mandi Spishak-Thomas (she/her) is a doctoral candidate at Columbia
-      University's <a href="https://socialwork.columbia.edu">School of Social
-      Work</a> and researcher in the <a href="https://cprc.columbia.edu">Columbia
-      Population Research Center</a>. Mandi studies the implications of social
-      policies for women throughout the life course, including reproductive
-      health access, maternal health, and menopause, as well as the effects of
-      anti-poverty policies on health and financial well-being.
+      Mandi Spishak-Thomas (she/her) is a Medicaid research scholar at
+      the <a href="https://www.cshp.rutgers.edu/">Rutgers Center for
+      State Health Policy</a>. Mandi's work understands health
+      policies as wealth policies, investigating how Medicaid impacts
+      intergenerational transfers of wealth, financial burden, and
+      wealth accumulation among low-income individuals and families,
+      especially birthing people and older adults.
     </p>
 
     <p>
-      With a passion for health care advocacy and extensive clinical social work
-      experience, Mandi has continuously sought out opportunities to remain
-      engaged in the community. She participated in a week-long political boot
-      camp training sponsored by the <a href="https://www.crispinc.org/">
-      Congressional Research Institute for Social Work and Policy (CRISP)</a>
-      where she learned to bridge the gap between research and policy. Mandi
-      facilitates a monthly caregiver support group through the
-      <a href="https://www.alz.org/">Alzheimer's Association</a> and is an active
+      Mandi is an ardent health care advocate, abolitionist, and union
+      organizer, drawing on her extensive clinical social work
+      experience to remain engaged in the community. Mandi is an
+      appointed member of Brooklyn's
+      <a href="https://www.nyc.gov/site/brooklyncb6/index.page">Community
+      Board 6</a> where she serves on the transportation, public
+      safety, and permits and licensing committees, advocating for a
+      more just and green Brooklyn. Additionally, Mandi facilitates a
+      monthly caregiver support group through the
+      <a href="https://www.alz.org/">Alzheimer's Association</a> for
+      adult children who care for loved ones with Alzheimer's disease
+      and other related dementias.
+    </p>
+
+    <p>
+      Mandi received her PhD from the Columbia School of Social Work
+      where her dissertation research investigated the impacts of
+      Medicaid estate recovery on intergenerational transfers of
+      wealth among low-income older adults. While at Columbia, Mandi
+      was a bargaining committee member, organizer, and rank-and-file
       member of the
-      <a href="https://www.plannedparenthood.org/planned-parenthood-greater-new-york">
-      Planned Parenthood of Greater New York (PPGNY)</a> Advocacy Collective
-      spending monthly meetings organizing political actions and outreach to
-      government officials in support of reproductive rights.
+      <a href="https://www.studentworkersofcolumbia.com/">Student
+      Workers of Columbia</a> (UAW Local 2710).
     </p>
 
     <p>
-      Prior to beginning her doctoral studies, she worked as a licensed clinical
-      social worker at the Veterans Affairs Medical Center and Alzheimer's
-      Association in San Francisco, California and received a master's degree in
-      Social Work from Columbia University. A Southern California native and baseball
-      enthusiast (Go Mets!), Mandi enjoys hiking, biking, and running in her free
-      time.
+      Prior to pursuing a PhD, she worked as a licensed clinical
+      social worker at the Veterans Affairs Medical Center and
+      Alzheimer's Association in San Francisco, California and
+      received a master's degree in Social Work from Columbia
+      University. A Southern California native and baseball enthusiast
+      (Go Mets!), Mandi spends her free time training for marathons,
+      biking, hiking in the Catskills, and walking her bernedoodle,
+      Muppet.
     </p>
 
     <p>
-      A PDF of my most recent CV can be found
+      Mandi's work has been presented in various disciplinary spaces,
+      including health policy
+      (<a href="https://academyhealth.org/">AcademyHealth</a>), social
+      work (<a href="http://secure.sswr.org/">SSWR</a>), and public
+      policy (<a href="https://www.appam.org/">APPAM</a>) and
+      published in <em>Contraception</em> and <em>Gerontology and
+      Geriatrics Education</em>.
+    </p>
+
+    <p>
+      A PDF of her most recent CV can be found
       <a href="AmandaSpishakThomasCV.pdf">here</a>.
     </p>
   </div>
@@ -49,7 +71,7 @@ top(Page::BIO);
   <a href="AmandaSpishakThomas-headshot.jpg" class="col" id="headshot">
     <img
         src="AmandaSpishakThomas-headshot-small.jpg"
-        alt="Amanda Spishak-Thomas headshot" />
+        alt="Amanda Spishak-Thomas headshot">
   </a>
 </div>
 
@@ -57,7 +79,7 @@ top(Page::BIO);
   <h3>Education</h3>
   <dl>
     <dt>Columbia University - New York, NY</dt>
-    <dd>Ph.D. Social Work (Expected 2023)</dd>
+    <dd>Ph.D. Social Work (2023)</dd>
 
     <dt>Columbia University - New York, NY</dt>
     <dd>MPhil (2022)</dd>
