@@ -6,7 +6,7 @@ top(Page::CONTACT);
   <h3>Contact</h3>
 
   <p>
-    Email: amanda.spishak.thomas [at] ifh.rutgers.edu
+    Email: a.spishak.thomas [at] ifh.rutgers.edu
   </p>
 
   <p>
