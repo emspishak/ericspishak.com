@@ -7,9 +7,10 @@ top(Page::RESEARCH);
 <ul>
   <li>
     Eliason, E., <strong>Spishak-Thomas, A.</strong>, Steenland,
-    M. (accepted for publication as of February 2022). Association of
-    the Affordable Care Act Medicaid Expansions with Postpartum
-    Contraceptive Use and Early Postpartum Pregnancy. <em>Contraception</em>.
+    M. (2022). Association of the Affordable Care Act Medicaid
+    Expansions with Postpartum Contraceptive Use and Early Postpartum
+    Pregnancy. <em>Contraception</em>, 113, 42-48. doi:
+    <a href="https://doi.org/10.1016/j.contraception.2022.02.012">10.1016/j.contraception.2022.02.012</a>
   </li>
   <li>
     Kaplan, D. B., Silverstone, B., Chan, K., <strong>Spishak-Thomas, A.</strong>,
@@ -30,8 +31,16 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
-    <strong>Spishak-Thomas, A.</strong>, Eliason, E. "Reasons Underlying Family
-    Planning Actions among Women in the Postpartum Period"
+    <strong>Spishak-Thomas, A.</strong> "The Association of Medicaid
+    Estate Recovery with Homeownership and Medicaid Enrollment"
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong> "Medicaid Enrollment and
+    Intergenerational Transfers of Wealth among Older Adults"
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Sandoe, E. "Understanding
+    Medicaid Estate Recovery: The Experience of North Carolina"
   </li>
 </ul>
 
@@ -39,36 +48,43 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
-    <strong>Spishak-Thomas, A.</strong>, Eliason, E. "Exploring Preconception
-    Family Planning Use and Pregnancy Intention among Women with a Live Birth"
+    Allen, H., <strong>Spishak-Thomas, A.</strong>, Liu, C.,
+    Underhill, K., Daw, J. "When the Bough Breaks: Financial Burdens
+    in the Postpartum Period by Insurance Type"
   </li>
   <li>
-    <strong>Spishak-Thomas, A.</strong>, Allen, H. "Grave Robbers: The Impact of
-    the Medicaid Estate Recovery Program on Intergenerational Transfers of Wealth
-    and Property among America's Working Families"
-  </li>
-  <li>
-    <strong>Spishak-Thomas, A.</strong> "American Women's Access to Health
-    Insurance through Midlife"
-  </li>
-  <li>
-    <strong>Spishak-Thomas, A.</strong> "Effects of Medicaid Title XIX on
-    Reproductive Health for Low-Income Women"
+    <strong>Spishak-Thomas, A.</strong>, Slopen, M., Allen, H., Daw,
+    J., Underhill, K. "The Role of State PFML Policies in Determining
+    Length and Composition of Parental Leave"
   </li>
 </ul>
 
-<h3>Conferences and Presentations</h3>
-
-<div>
-  *presented by coauthor
-</div>
+<h3>Invited and Peer-Reviewed Presentations</h3>
 
 <ul>
   <li>
-    <strong>Spishak-Thomas, A.</strong>, Allen, H. Grave Robbers: The Impact of
-    the Medicaid Estate Recovery Program on Intergenerational Transfers of Wealth
-    and Property among America’s Working Families. Association for Public Policy
-    Analysis and Management, Austin, TX, 2022.
+    Allen, H., <strong>Spishak-Thomas, A.</strong>, Liu, C.,
+    Underhill, K., Daw, J. When the Bough Breaks: Financial Burdens in
+    the Postpartum Period by Insurance Type. AcademyHealth Annual
+    Research Meeting, Seattle, WA, 2023.
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Toppenberg, L.,
+    Sonsteng-Person, M., Lob, S., Bonilla, P. Can't Fight Poverty in
+    Poverty: Organizing for Equity in Social Work. Roundtable. Society
+    for Social Work and Research, Phoenix, AZ, 2023.
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Grave Robbers: Medicaid
+    Estate Recovery and Wealth Disparities in Intergenerational
+    Financial Health. Association for Public Policy Analysis and
+    Management, Washington, D.C., 2022.
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Allen, H. The Association of
+    the Medicaid Estate Recovery Program with
+    Homeownership. Association for Public Policy Analysis and
+    Management, Austin, TX, 2022.
   </li>
   <li>
     Eliason, E., <strong>Spishak-Thomas, A.</strong> Impacts of the Affordable
@@ -80,7 +96,7 @@ top(Page::RESEARCH);
     Eliason, E., <strong>Spishak-Thomas, A.</strong> Association Between
     Affordable Care Act Medicaid Expansions and Breastfeeding among Low-Income
     Women. Poster Presentation. American Public Health Association Annual Meeting,
-    2021 (online).*
+    2021 (online).
   </li>
   <li>
     <strong>Spishak-Thomas, A.</strong>, Aivadyan, C. 'So many disincentives to
@@ -95,22 +111,22 @@ top(Page::RESEARCH);
     D.C., 2020 (online).
   </li>
   <li>
-    Kaplan, D., Silverstone, B., Chan, K., <strong>Spishak-Thomas,
+    Kaplan, D. B., Silverstone, B., Chan, K., <strong>Spishak-Thomas,
     A.</strong> NASW's Supervisory Leaders in Aging: One-year Practice Change
     Outcomes of an Innovative Training Program for Social Work Supervisors.
-    Gerontological Society of America, Philadelphia, PA, 2020 (online).*
+    Gerontological Society of America, Philadelphia, PA, 2020 (online).
   </li>
   <li>
     Allen, H., Zhang, Y., Eliason, E., <strong>Spishak-Thomas, A.</strong>,
     Frankel, C. Adverse Childhood Experiences and their Relationship with
     Depression among Adults in a Low-Income Uninsured Population. Society for
-    Social Work and Research, Washington, D.C., 2020.*
+    Social Work and Research, Washington, D.C., 2020.
   </li>
   <li>
     Price E., Garg M., <strong>Spishak-Thomas A.</strong>, Crevensten H., Ranji,
     S. "Doctor, Your Patient Wants to Leave": Navigating Elopement Risk in
     Patients Who Lack Decision Making Capacity. Workshop at Society of Hospital
-    Medicine National Meeting, Orlando, FL, 2018.*
+    Medicine National Meeting, Orlando, FL, 2018.
   </li>
 </ul>
 <?php

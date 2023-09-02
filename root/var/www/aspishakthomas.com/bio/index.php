@@ -56,7 +56,7 @@ top(Page::BIO);
       Mandi's work has been presented in various disciplinary spaces,
       including health policy
       (<a href="https://academyhealth.org/">AcademyHealth</a>), social
-      work (<a href="http://secure.sswr.org/">SSWR</a>), and public
+      work (<a href="https://secure.sswr.org/">SSWR</a>), and public
       policy (<a href="https://www.appam.org/">APPAM</a>) and
       published in <em>Contraception</em> and <em>Gerontology and
       Geriatrics Education</em>.
