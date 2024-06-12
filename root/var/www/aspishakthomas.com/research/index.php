@@ -6,62 +6,84 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
+    <strong>Spishak-Thomas, A.</strong> (2024). Medicaid enrollment
+    and intergenerational transfers of wealth among older adults.
+    <em>The Gerontologist</em>. <a href="https://doi.org/10.1093/geront/gnae074">https://doi.org/10.1093/geront/gnae074</a>
+  </li>
+  <li>
     Eliason, E., <strong>Spishak-Thomas, A.</strong>, Steenland,
     M. (2022). Association of the Affordable Care Act Medicaid
-    Expansions with Postpartum Contraceptive Use and Early Postpartum
-    Pregnancy. <em>Contraception</em>, 113, 42-48. doi:
-    <a href="https://doi.org/10.1016/j.contraception.2022.02.012">10.1016/j.contraception.2022.02.012</a>
+    expansions with postpartum contraceptive use and early postpartum
+    pregnancy. <em>Contraception</em>, <em>113</em>, 42-48.
+    <a href="https://doi.org/10.1016/j.contraception.2022.02.012">https://doi.org/10.1016/j.contraception.2022.02.012</a>
+    [<a href="postpartum-contraception-contraception2022.pdf">PDF</a>]
   </li>
   <li>
     Kaplan, D. B., Silverstone, B., Chan, K., <strong>Spishak-Thomas, A.</strong>,
     Herman, C., Zlotnik, J. L.  (2022). NASW's Supervisory Leaders in
     Aging: One-year practice change outcomes of an innovative training
     program for social work supervisors. <em>Gerontology and
-    Geriatrics Education</em>. doi:
-    <a href="https://doi.org/10.1080/02701960.2022.2028260">10.1080/02701960.2022.2028260</a>
+    Geriatrics Education</em>, <em>44</em>(3), 364-379.
+    <a href="https://doi.org/10.1080/02701960.2022.2028260">https://doi.org/10.1080/02701960.2022.2028260</a>
+    [<a href="nasw-sla-gerontology2022.pdf">PDF</a>]
   </li>
 </ul>
 
-<!-- <h3>Under Review</h3>
-
-<ul>
-</ul> -->
-
-<h3>Working Papers</h3>
+<h3>Manuscripts Under Review</h3>
 
 <ul>
   <li>
-    <strong>Spishak-Thomas, A.</strong> "The Association of Medicaid
-    Estate Recovery with Homeownership and Medicaid Enrollment"
+    Allen, H., <strong>Spishak-Thomas, A.</strong>, Underhill, K.,
+    Liu, C., Daw, J. "When the Bough Breaks: The Financial Burden of
+    Childbirth and Postpartum Care by Insurance Type"
   </li>
   <li>
-    <strong>Spishak-Thomas, A.</strong> "Medicaid Enrollment and
-    Intergenerational Transfers of Wealth among Older Adults"
-  </li>
-  <li>
-    <strong>Spishak-Thomas, A.</strong>, Sandoe, E. "Understanding
-    Medicaid Estate Recovery: The Experience of North Carolina"
+    <strong>Spishak-Thomas, A.</strong>, Slopen, M., Daw, J., Liu, C.,
+    Underhill, K., Allen, H. "Time to Recover and Bond: The Relationship Between
+    State PFL Policies and Postpartum Leave Taking"
   </li>
 </ul>
 
-<h3>Works in Progress</h3>
+<h3>Manuscripts in Preparation</h3>
 
 <ul>
   <li>
-    Allen, H., <strong>Spishak-Thomas, A.</strong>, Liu, C.,
-    Underhill, K., Daw, J. "When the Bough Breaks: Financial Burdens
-    in the Postpartum Period by Insurance Type"
+    <strong>Spishak-Thomas, A.</strong>, Eliason, E. "Barriers and Needs for
+    Postpartum Contraception during COVID-19: A Mixed Methods Study"
   </li>
   <li>
-    <strong>Spishak-Thomas, A.</strong>, Slopen, M., Allen, H., Daw,
-    J., Underhill, K. "The Role of State PFML Policies in Determining
-    Length and Composition of Parental Leave"
+    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. "Understanding
+    Medicaid Estate Recovery: The Experience of North Carolina and Policy
+    Implications for Future Reforms"
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Greenhalgh-Stanley, N. "The Association
+    of Medicaid Estate Recovery with Homeownership and Medicaid Enrollment"
   </li>
 </ul>
 
 <h3>Invited and Peer-Reviewed Presentations</h3>
 
 <ul>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard,
+    H. Understanding Medicaid Estate Recovery: The Experience of North
+    Carolina and Policy Implications for Future Reforms. Poster
+    Presentation. AcademyHealth Annual Research Meeting, Baltimore,
+    MD, 2024.
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong> Medicaid Enrollment and
+    Intergenerational Transfers of Wealth among Older Adults. Poster
+    Presentation. Population Association of America, Columbus, OH,
+    2024.
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Slopen, M., Allen, H., Daw,
+    J., Underhill, K. The Role of State PFML Policies in Determining
+    Length and Composition of Parental Leave. Society for Social Work
+    and Research, Washington, D.C., 2024.
+  </li>
   <li>
     Allen, H., <strong>Spishak-Thomas, A.</strong>, Liu, C.,
     Underhill, K., Daw, J. When the Bough Breaks: Financial Burdens in

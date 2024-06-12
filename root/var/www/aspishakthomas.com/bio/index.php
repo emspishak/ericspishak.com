@@ -6,9 +6,9 @@ top(Page::BIO);
   <div class="col" id="bio">
     <h3>About Me</h3>
     <p>
-      Mandi Spishak-Thomas (she/her) is a Medicaid research scholar at
-      the <a href="https://www.cshp.rutgers.edu/">Rutgers Center for
-      State Health Policy</a>. Mandi's work understands health
+      Mandi Spishak-Thomas (she/her) is a post-doctoral Medicaid
+      research scholar at the <a href="https://www.cshp.rutgers.edu/">Rutgers
+      Center for State Health Policy</a>. Mandi's work understands health
       policies as wealth policies, investigating how Medicaid impacts
       intergenerational transfers of wealth, financial burden, and
       wealth accumulation among low-income individuals and families,

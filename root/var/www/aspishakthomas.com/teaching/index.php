@@ -21,6 +21,15 @@ top(Page::TEACHING);
 <ul>
   <li>
     <div>
+      12/2023: Rutgers University Health Sciences
+    </div>
+    <div>
+      Guest Lecturer - Introduction to Implementation Science and
+      Program Evaluation, "Dissemination and Sustainability"
+    </div>
+  </li>
+  <li>
+    <div>
       11/2020: Columbia School of Social Work
     </div>
     <div>
