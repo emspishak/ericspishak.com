@@ -8,7 +8,9 @@ top(Page::RESEARCH);
   <li>
     <strong>Spishak-Thomas, A.</strong> (2024). Medicaid enrollment
     and intergenerational transfers of wealth among older adults.
-    <em>The Gerontologist</em>. <a href="https://doi.org/10.1093/geront/gnae074">https://doi.org/10.1093/geront/gnae074</a>
+    <em>The Gerontologist</em>, <em>64</em>(7).
+    <a href="https://doi.org/10.1093/geront/gnae074">https://doi.org/10.1093/geront/gnae074</a>
+    [<a href="medicaid-enrollment-gerontologist2024.pdf">PDF</a>]
   </li>
   <li>
     Eliason, E., <strong>Spishak-Thomas, A.</strong>, Steenland,
