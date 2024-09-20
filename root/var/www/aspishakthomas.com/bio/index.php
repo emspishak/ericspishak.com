@@ -6,13 +6,17 @@ top(Page::BIO);
   <div class="col" id="bio">
     <h3>About Me</h3>
     <p>
-      Mandi Spishak-Thomas (she/her) is a post-doctoral Medicaid
-      research scholar at the <a href="https://www.cshp.rutgers.edu/">Rutgers
-      Center for State Health Policy</a>. Mandi's work understands health
-      policies as wealth policies, investigating how Medicaid impacts
-      intergenerational transfers of wealth, financial burden, and
-      wealth accumulation among low-income individuals and families,
-      especially birthing people and older adults.
+      Mandi Spishak-Thomas (she/her) is an assistant research
+      professor at the <a href="https://www.cshp.rutgers.edu/">Rutgers
+      Center for State Health Policy</a>. Mandi's work understands
+      health policies as wealth policies, investigating how Medicaid
+      impacts intergenerational transfers of wealth, financial burden,
+      and wealth accumulation among low-income individuals and
+      families, especially birthing people and older adults. In
+      addition to Mandi's independent research agenda, she is a
+      co-investigator on New Jersey's Medicaid 1115 Waiver
+      Demonstration leading the Managed Long-Term Services and
+      Supports and Maternity portfolios.
     </p>
 
     <p>
@@ -58,8 +62,8 @@ top(Page::BIO);
       (<a href="https://academyhealth.org/">AcademyHealth</a>), social
       work (<a href="https://secure.sswr.org/">SSWR</a>), and public
       policy (<a href="https://www.appam.org/">APPAM</a>) and
-      published in <em>Contraception</em> and <em>Gerontology and
-      Geriatrics Education</em>.
+      published in <em>The Gerontologist</em>, <em>Contraception</em>,
+      and <em>Gerontology and Geriatrics Education</em>.
     </p>
 
     <p>
