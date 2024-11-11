@@ -6,6 +6,18 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
+    McGovern, M.E., Treglia, D., Eliason, E.L., <strong>Spishak-Thomas, A.</strong>,
+    Cantor, J.C. (2024). Homelessness and Maternal and Infant Health. <em>JAMA Network Open</em>,
+    <em>7</em>(11). <a href="https://doi.org/10.1001/jamanetworkopen.2024.42596">https://doi.org/10.1001/jamanetworkopen.2024.42596</a> [<a href="homeless-maternal-jamano2024.pdf">PDF</a>]
+  </li>
+  <li>
+    Allen, H., <strong>Spishak-Thomas, A.</strong>, Underhill, K., Liu, C., Daw,
+    J. (2024). When the Bough Breaks: The Financial Burden of
+    Childbirth and Postpartum Care by Insurance Type. <em>The Milbank
+    Quarterly</em>. <a href="https://doi.org/10.1111/1468-0009.12721">https://doi.org/10.1111/1468-0009.12721</a>
+    [<a href="childbirth-insurance-millbank2024.pdf">PDF</a>]
+  </li>
+  <li>
     <strong>Spishak-Thomas, A.</strong> (2024). Medicaid enrollment
     and intergenerational transfers of wealth among older adults.
     <em>The Gerontologist</em>, <em>64</em>(7).
@@ -35,24 +47,20 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
-    Allen, H., <strong>Spishak-Thomas, A.</strong>, Underhill, K.,
-    Liu, C., Daw, J. "When the Bough Breaks: The Financial Burden of
-    Childbirth and Postpartum Care by Insurance Type"
-  </li>
-  <li>
     <strong>Spishak-Thomas, A.</strong>, Slopen, M., Daw, J., Liu, C.,
     Underhill, K., Allen, H. "Time to Recover and Bond: The Relationship Between
     State PFL Policies and Postpartum Leave Taking"
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Eliason, E.L. "Barriers and
+    Needs for Postpartum Contraception during COVID-19: A Mixed
+    Methods Study"
   </li>
 </ul>
 
 <h3>Manuscripts in Preparation</h3>
 
 <ul>
-  <li>
-    <strong>Spishak-Thomas, A.</strong>, Eliason, E. "Barriers and Needs for
-    Postpartum Contraception during COVID-19: A Mixed Methods Study"
-  </li>
   <li>
     <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. "Understanding
     Medicaid Estate Recovery: The Experience of North Carolina and Policy
@@ -62,11 +70,21 @@ top(Page::RESEARCH);
     <strong>Spishak-Thomas, A.</strong>, Greenhalgh-Stanley, N. "The Association
     of Medicaid Estate Recovery with Homeownership and Medicaid Enrollment"
   </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. "30
+    Years of Medicaid Estate Recovery"
+  </li>
 </ul>
 
 <h3>Invited and Peer-Reviewed Presentations</h3>
 
 <ul>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Eliason, E.L. Barriers and Needs for
+    Postpartum Contraception during COVID-19: A Mixed Methods
+    Study. Association for Public Policy Analysis and Management,
+    National Harbor, MD, 2024.
+  </li>
   <li>
     <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard,
     H. Understanding Medicaid Estate Recovery: The Experience of North
