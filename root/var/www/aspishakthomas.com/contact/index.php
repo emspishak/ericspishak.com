@@ -10,7 +10,7 @@ top(Page::CONTACT);
   </p>
 
   <p>
-    Twitter: <a href="https://twitter.com/m_spishakthomas">@m_spishakthomas</a>
+    Bluesky: <a href="https://bsky.app/profile/aspishakthomas.com">@aspishakthomas.com</a>
   </p>
 
   <p>
