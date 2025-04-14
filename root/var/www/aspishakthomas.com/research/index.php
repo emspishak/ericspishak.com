@@ -6,6 +6,11 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
+    <strong>Spishak-Thomas, A.</strong>, Slopen, M., Daw, J., Liu, C.,
+    Underhill, K., Allen, H. "Time to Recover and Bond: The Relationship Between
+    State PFL Policies and Postpartum Leave Taking" (<em>Forthcoming</em>)
+  </li>
+  <li>
     McGovern, M.E., Treglia, D., Eliason, E.L., <strong>Spishak-Thomas, A.</strong>,
     Cantor, J.C. (2024). Homelessness and Maternal and Infant Health. <em>JAMA Network Open</em>,
     <em>7</em>(11). <a href="https://doi.org/10.1001/jamanetworkopen.2024.42596">https://doi.org/10.1001/jamanetworkopen.2024.42596</a> [<a href="homeless-maternal-jamano2024.pdf">PDF</a>]
@@ -25,7 +30,7 @@ top(Page::RESEARCH);
     [<a href="medicaid-enrollment-gerontologist2024.pdf">PDF</a>]
   </li>
   <li>
-    Eliason, E., <strong>Spishak-Thomas, A.</strong>, Steenland,
+    Eliason, E.L., <strong>Spishak-Thomas, A.</strong>, Steenland,
     M. (2022). Association of the Affordable Care Act Medicaid
     expansions with postpartum contraceptive use and early postpartum
     pregnancy. <em>Contraception</em>, <em>113</em>, 42-48.
@@ -47,14 +52,13 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
-    <strong>Spishak-Thomas, A.</strong>, Slopen, M., Daw, J., Liu, C.,
-    Underhill, K., Allen, H. "Time to Recover and Bond: The Relationship Between
-    State PFL Policies and Postpartum Leave Taking"
-  </li>
-  <li>
     <strong>Spishak-Thomas, A.</strong>, Eliason, E.L. "Barriers and
     Needs for Postpartum Contraception during COVID-19: A Mixed
     Methods Study"
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. "Lots
+    of Pain for Little Gain: Three Decades of Medicaid Estate Recovery"
   </li>
 </ul>
 
@@ -70,15 +74,17 @@ top(Page::RESEARCH);
     <strong>Spishak-Thomas, A.</strong>, Greenhalgh-Stanley, N. "The Association
     of Medicaid Estate Recovery with Homeownership and Medicaid Enrollment"
   </li>
-  <li>
-    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. "30
-    Years of Medicaid Estate Recovery"
-  </li>
 </ul>
 
 <h3>Invited and Peer-Reviewed Presentations</h3>
 
 <ul>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Greenhalgh-Stanley, N. The Association
+    of Medicaid Estate Recovery with Homeownership and Medicaid Enrollment.
+    Poster Presentation. AcademyHealth Annual Research Meeting, Minneapolis, MN,
+    2025.
+  </li>
   <li>
     <strong>Spishak-Thomas, A.</strong>, Eliason, E.L. Barriers and Needs for
     Postpartum Contraception during COVID-19: A Mixed Methods
@@ -129,13 +135,13 @@ top(Page::RESEARCH);
     Management, Austin, TX, 2022.
   </li>
   <li>
-    Eliason, E., <strong>Spishak-Thomas, A.</strong> Impacts of the Affordable
+    Eliason, E.L., <strong>Spishak-Thomas, A.</strong> Impacts of the Affordable
     Care Act Medicaid Expansions on Closely Spaced Pregnancies and Postpartum
     Contraceptive Use. Association for Public Policy Analysis and Management,
     Austin, TX, 2022.
   </li>
   <li>
-    Eliason, E., <strong>Spishak-Thomas, A.</strong> Association Between
+    Eliason, E.L., <strong>Spishak-Thomas, A.</strong> Association Between
     Affordable Care Act Medicaid Expansions and Breastfeeding among Low-Income
     Women. Poster Presentation. American Public Health Association Annual Meeting,
     2021 (online).
@@ -159,7 +165,7 @@ top(Page::RESEARCH);
     Gerontological Society of America, Philadelphia, PA, 2020 (online).
   </li>
   <li>
-    Allen, H., Zhang, Y., Eliason, E., <strong>Spishak-Thomas, A.</strong>,
+    Allen, H., Zhang, Y., Eliason, E.L., <strong>Spishak-Thomas, A.</strong>,
     Frankel, C. Adverse Childhood Experiences and their Relationship with
     Depression among Adults in a Low-Income Uninsured Population. Society for
     Social Work and Research, Washington, D.C., 2020.

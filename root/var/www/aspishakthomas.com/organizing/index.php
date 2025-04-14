@@ -14,21 +14,32 @@ top(Page::ORGANIZING);
 </p>
 
 <p>
-  I am a proud rank-and-file member of the Student Workers of Columbia
-  (SWC-UAW Local 2710), where I organize alongside student workers at
-  Columbia to secure health and safety protections in our academic
-  workplace.
+  Mandi is a proud rank-and-file member of the
+  <a href="https://rutgersaaup.org/">Rutgers American Association of University
+  Professors - American Federation of Teachers (AAUP-AFT)</a>, where she
+  organizes alongside faculty, postdoc, and graduate student workers at Rutgers
+  University to secure equitable benefits and health and safety protections in
+  the academic workplace.
 </p>
 
 <p>
-  Visit our <a href="https://www.studentworkersofcolumbia.com/">website</a> for
-  more information on our contract and current campaigns.
+  Mandi has a robust history of labor organizing as a graduated member of the
+  Student Workers of Columbia (SWC-UAW Local 2710), where she served as a
+  bargaining committee member, successfully securing their first contract in
+  2022. Visit their
+  <a href="https://www.studentworkersofcolumbia.com/">website</a> for more
+  information on their contract and ongoing campaigns.
 </p>
-
 
 <h3>Press</h3>
 
 <ul>
+  <li>
+    <a href="https://www.columbiaspectator.com/news/2023/03/05/barnard-columbia-abolition-collective-hosts-teach-in-on-the-prison-industrial-complex-calls-for-cops-off-campus/">
+      Barnard-Columbia Abolition Collective hosts teach-in on the prison
+      industrial complex, calls for cops off campus<a>
+    - Columbia Spectator
+  </li>
   <li>
     <a href="https://www.nytimes.com/2021/11/24/nyregion/columbia-grad-student-strike.html">
       Why Columbia Student Workers Are Back On Strike</a>

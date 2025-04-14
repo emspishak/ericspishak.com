@@ -8,26 +8,27 @@ top(Page::BIO);
     <p>
       Mandi Spishak-Thomas (she/her) is an assistant research
       professor at the <a href="https://www.cshp.rutgers.edu/">Rutgers
-      Center for State Health Policy</a>. Mandi's work understands
-      health policies as wealth policies, investigating how Medicaid
-      impacts intergenerational transfers of wealth, financial burden,
-      and wealth accumulation among low-income individuals and
-      families, especially birthing people and older adults. In
-      addition to Mandi's independent research agenda, she is a
-      co-investigator on New Jersey's Medicaid 1115 Waiver
-      Demonstration leading the Managed Long-Term Services and
-      Supports and Maternity portfolios.
+      Center for State Health Policy</a>. Mandi's work understands health
+      policies as wealth policies, investigating how Medicaid impacts
+      intergenerational transfers of wealth, medical debt, and wealth
+      accumulation among low-income individuals and families, especially
+      birthing people and older adults. In addition to Mandi's independent
+      research agenda, she is a principal investigator on
+      <a href="https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/82571">New
+      Jersey's Medicaid 1115 Waiver Demonstration</a>, leading the Managed Long-Term
+      Services and Supports and Maternity portfolios.
     </p>
 
     <p>
       Mandi is an ardent health care advocate, abolitionist, and union
       organizer, drawing on her extensive clinical social work
-      experience to remain engaged in the community. Mandi is an
-      appointed member of Brooklyn's
+      experience to remain engaged in the community. Mandi is a
+      member of Brooklyn's
       <a href="https://www.nyc.gov/site/brooklyncb6/index.page">Community
-      Board 6</a> where she serves on the transportation, public
-      safety, and permits and licensing committees, advocating for a
-      more just and green Brooklyn. Additionally, Mandi facilitates a
+      Board 6</a> appointed by City Councilmember Lincoln Restler, where she
+      serves as the chair of the Business Affairs and Licenses Committee and as
+      a member of the Transportation and Public Safety Committee, advocating for
+      a more just and green Brooklyn. Additionally, Mandi facilitates a
       monthly caregiver support group through the
       <a href="https://www.alz.org/">Alzheimer's Association</a> for
       adult children who care for loved ones with Alzheimer's disease
@@ -51,9 +52,9 @@ top(Page::BIO);
       Alzheimer's Association in San Francisco, California and
       received a master's degree in Social Work from Columbia
       University. A Southern California native and baseball enthusiast
-      (Go Mets!), Mandi spends her free time training for marathons,
-      biking, hiking in the Catskills, and walking her bernedoodle,
-      Muppet.
+      (Let's Go Mets!), Mandi spends her free time running, checking out books
+      from the <a href="https://www.bklynlibrary.org/">library</a>, hiking,
+      baking pies, and walking her bernedoodle, Muppet.
     </p>
 
     <p>
@@ -62,8 +63,9 @@ top(Page::BIO);
       (<a href="https://academyhealth.org/">AcademyHealth</a>), social
       work (<a href="https://secure.sswr.org/">SSWR</a>), and public
       policy (<a href="https://www.appam.org/">APPAM</a>) and
-      published in <em>The Gerontologist</em>, <em>Contraception</em>,
-      and <em>Gerontology and Geriatrics Education</em>.
+      published in <em>JAMA Network Open</em>, <em>The Milbank Quarterly</em>,
+      <em>The Gerontologist</em>, <em>Contraception</em>, and <em>Gerontology
+      and Geriatrics Education</em>.
     </p>
 
     <p>
