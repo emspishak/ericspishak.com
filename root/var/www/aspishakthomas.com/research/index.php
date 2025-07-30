@@ -6,9 +6,16 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
+    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. (2025). Lots
+    of Pain for Little Gain: Three Decades of Medicaid Estate Recovery.
+    <em>Journal of Health Politics, Policy and Law</em>. (<em>Forthcoming</em>)
+  </li>
+  <li>
     <strong>Spishak-Thomas, A.</strong>, Slopen, M., Daw, J., Liu, C.,
-    Underhill, K., Allen, H. "Time to Recover and Bond: The Relationship Between
-    State PFL Policies and Postpartum Leave Taking" (<em>Forthcoming</em>)
+    Underhill, K., Allen, H. (2025). Time to Recover and Bond: The Relationship Between
+    State PFL Policies and Postpartum Leave Taking. <em>Social Service Review</em>, <em>99</em>(3).
+    <a href="https://doi.org/10.1086/736406">https://doi.org/10.1086/736406</a>
+    [<a href="postpartum-pfl-ssr2025.pdf">PDF</a>]
   </li>
   <li>
     McGovern, M.E., Treglia, D., Eliason, E.L., <strong>Spishak-Thomas, A.</strong>,
@@ -57,22 +64,9 @@ top(Page::RESEARCH);
     Methods Study"
   </li>
   <li>
-    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. "Lots
-    of Pain for Little Gain: Three Decades of Medicaid Estate Recovery"
-  </li>
-</ul>
-
-<h3>Manuscripts in Preparation</h3>
-
-<ul>
-  <li>
     <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. "Understanding
     Medicaid Estate Recovery: The Experience of North Carolina and Policy
     Implications for Future Reforms"
-  </li>
-  <li>
-    <strong>Spishak-Thomas, A.</strong>, Greenhalgh-Stanley, N. "The Association
-    of Medicaid Estate Recovery with Homeownership and Medicaid Enrollment"
   </li>
 </ul>
 

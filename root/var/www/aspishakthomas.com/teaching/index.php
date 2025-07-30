@@ -21,6 +21,15 @@ top(Page::TEACHING);
 <ul>
   <li>
     <div>
+      4/2025: Columbia School of Social Work
+    </div>
+    <div>
+      Guest Lecturer - Advocacy: Decolonizing Mezzo- and Macro-practice in Social
+      Work, "Labor Organizing"
+    </div>
+  </li>
+  <li>
+    <div>
       12/2023: Rutgers University Health Sciences
     </div>
     <div>
@@ -99,7 +108,7 @@ top(Page::TEACHING);
   </li>
 </ul>
 
-<h3>Teaching Fellowships</h3>
+<h3>Pedagogical Trainings</h3>
 
 <ul>
   <li>
@@ -110,11 +119,7 @@ top(Page::TEACHING);
       Senior Teaching Mentor – Summer Health Profession Education Program (SHPEP)
     </div>
   </li>
-</ul>
 
-<h3>Teaching Trainings</h3>
-
-<ul>
   <li>
     03/2019 – 06/2019: Inclusive Teaching Training, Columbia Center for Teaching
     and Learning
