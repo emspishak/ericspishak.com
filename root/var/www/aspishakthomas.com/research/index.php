@@ -2,13 +2,15 @@
 include_once(__DIR__ . "/../template.php");
 top(Page::RESEARCH);
 ?>
-<h3>Peer-Reviewed Publications</h3>
+<h3>Peer-Reviewed Journal Articles</h3>
 
 <ul>
   <li>
-    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. (2025). Lots
+    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. (2026). Lots
     of Pain for Little Gain: Three Decades of Medicaid Estate Recovery.
-    <em>Journal of Health Politics, Policy and Law</em>. (<em>Forthcoming</em>)
+    <em>Journal of Health Politics, Policy and Law</em>, <em>51</em>(3).
+    <a href="https://doi.org/10.1215/03616878-12166749">https://doi.org/10.1215/03616878-12166749</a>
+    [<a href="mer-history-jhppl2026.pdf">PDF</a>]
   </li>
   <li>
     <strong>Spishak-Thomas, A.</strong>, Slopen, M., Daw, J., Liu, C.,
@@ -55,7 +57,23 @@ top(Page::RESEARCH);
   </li>
 </ul>
 
-<h3>Manuscripts Under Review</h3>
+<h3>Policy Reports and Blogs</h3>
+
+<ul>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Oh, A. (2025). <em>Analysis of the Children's Health Insurance
+    Program (CHIP) Continuous Coverage Provision to Examine Enrollment and Access to Care and Quality</em>.
+    Centers for Medicare & Medicaid Services.
+    [<a href="https://www.medicaid.gov/medicaid/section-1115-demonstrations/downloads/nj-familycare-comp-demo-cov19-phe-finl-rpt.pdf">PDF</a>]
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Oh, A. "Covering Uninsured Children: State Solutions for Immigrant
+    Children." <em>Milbank Memorial Fund</em>. September 15, 2025.
+    [<a href="https://www.milbank.org/2025/09/covering-uninsured-children-state-solutions-for-immigrant-children/">Link</a>]
+  </li>
+</ul>
+
+<h3>Under Review</h3>
 
 <ul>
   <li>
@@ -67,6 +85,16 @@ top(Page::RESEARCH);
     <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. "Understanding
     Medicaid Estate Recovery: The Experience of North Carolina and Policy
     Implications for Future Reforms"
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong> "The Association of Medicaid Estate Recovery
+    with Homeownership, Home Equity, and Medicaid Enrollment"
+  </li>
+  <li>
+    Cantor, J.C., Farnham, J., Palatucci, J., <strong>Spishak-Thomas, A.</strong>,
+    Agrawal, M., Chakravarty, S., Lloyd, K., Pizzi, L. Prioli, K.M., Nasiri, M.
+    "Examining the Effect of the NJ FamilyCare Comprehensive Demonstration on
+    Access to Care, Quality, and Cost of Care: Summative Evaluation Report"
   </li>
 </ul>
 
