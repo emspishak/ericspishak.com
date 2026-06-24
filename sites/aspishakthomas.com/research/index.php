@@ -6,6 +6,25 @@ top(Page::RESEARCH);
 
 <ul>
   <li>
+    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. (2026). Understanding
+    Medicaid Estate Recovery: The Experience of North Carolina and Policy
+    Implications for Future Reforms. <em>Health Services Research</em>. <em>61</em>(3).
+    <a href="https://doi.org/10.1111/1475-6773.70141">https://doi.org/10.1111/1475-6773.70141</a>
+    [<a href="mer-nc-hsr2026.pdf">PDF</a>]
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong>, Eliason, E.L. (2026). Barriers and
+    Needs for Postpartum Contraception. <em>Maternal and Child Health</em>, <em>30</em>, 681-691.
+    <a href="https://doi.org/10.1007/s10995-026-04265-0">https://doi.org/10.1007/s10995-026-04265-0</a>
+    [<a href="barriers-postpartum-mch2026.pdf">PDF</a>]
+  </li>
+  <li>
+    <strong>Spishak-Thomas, A.</strong> (2026). The Association of Medicaid Estate Recovery
+    with Homeownership, Home Equity, and Medicaid Enrollment. <em>The Milbank Quarterly</em>, <em>104</em>(3).
+    <a href="https://doi.org/10.1111/1468-0009.70087">https://doi.org/10.1111/1468-0009.70087</a>
+    [<a href="mer-equity-millbank2026.pdf">PDF</a>]
+  </li>
+  <li>
     <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. (2026). Lots
     of Pain for Little Gain: Three Decades of Medicaid Estate Recovery.
     <em>Journal of Health Politics, Policy and Law</em>, <em>51</em>(3).
@@ -76,20 +95,6 @@ top(Page::RESEARCH);
 <h3>Under Review</h3>
 
 <ul>
-  <li>
-    <strong>Spishak-Thomas, A.</strong>, Eliason, E.L. "Barriers and
-    Needs for Postpartum Contraception during COVID-19: A Mixed
-    Methods Study"
-  </li>
-  <li>
-    <strong>Spishak-Thomas, A.</strong>, Sandoe, E., Howard, H. "Understanding
-    Medicaid Estate Recovery: The Experience of North Carolina and Policy
-    Implications for Future Reforms"
-  </li>
-  <li>
-    <strong>Spishak-Thomas, A.</strong> "The Association of Medicaid Estate Recovery
-    with Homeownership, Home Equity, and Medicaid Enrollment"
-  </li>
   <li>
     Cantor, J.C., Farnham, J., Palatucci, J., <strong>Spishak-Thomas, A.</strong>,
     Agrawal, M., Chakravarty, S., Lloyd, K., Pizzi, L. Prioli, K.M., Nasiri, M.
